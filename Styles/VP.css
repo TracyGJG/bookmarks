@@ -1,0 +1,535 @@
+/** Screen Resolutions
+  iPod Touch                    P 2.5 x 3.5       300 x 420
+  Galaxy S7                     P 3 x 4.5         360 x 540 
+  iPod Touch    1136 x 640      L 4.5 x 2         540 x 240
+  Lenovo 7                      P 5 x 7           600 x 840
+  Galaxy S7     2560 x 1440     L 5.25 x 2        630 x 240
+  Lenovo 7      1280 x 720      L 8.5 x 3.25      1020 x 390
+  Tab Pro 12    2560 x 1600     L 10.5 x 5.25     1260 x 630
+  Dell Laptop   1920 x 1080     L 15.25 x 7.5     1830 x 900 
+
+  S0 300 x 420    Default
+  S1 360 x 540    > 380
+  S2 540 x 240    > 560
+  S3 600 x 840    > 620
+  S4 630 x 240    > 640
+  S5 1020 x 390   > 1040
+  S6 1260 x 630   > 1280
+  S7 1830 x 900   > 1830
+*/
+html,
+body {
+  overflow: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 12pt;
+}
+
+body {
+  display: none;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  width: 200px;
+  overflow: hidden;
+  padding: 5px;
+  margin: 10px auto;
+  border: 2px solid grey;
+  color: black;
+  border-radius: 5px;
+  display: none;
+  background-color: #fff;
+}
+
+section.header {
+  float: left;
+  padding: 10px;
+  margin: -5px -5px 5px;
+  height: 102px;
+  border-bottom: 1px solid black;
+  display: none;
+}
+
+h1,
+h2 {
+  color: #fff;
+  text-align: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+h1 {
+  height: 33px;
+  font-size: 1.5em;
+  margin: -10px -6px 0 -10px;
+  padding-top: 3px;
+}
+
+h2 {
+  height: 28px;
+  font-size: 1.2em;
+  margin: 0;
+  padding-top: 1px;
+}
+
+h3 {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  margin: 2.25rem 0 0;
+  padding: 0.25rem 0;
+}
+
+p {
+  margin: 0;
+}
+
+.activeList {
+  cursor: pointer;
+}
+
+ul {
+  padding-left: 24px;
+  margin: 0.2em 0 0;
+}
+
+ul.p2 {
+  margin: 0;
+}
+
+li {
+  font-size: 0.9em;
+  line-height: 1.4em;
+}
+
+a {
+  font-size: 1em;
+  line-height: 1em;
+  color: black;
+  text-decoration: none;
+}
+
+hr {
+  margin: 0.25rem 0.5em 0.25rem 1.5em;
+  border: 1px solid grey;
+}
+
+span.quickLinks div {
+  width: 120px;
+  height: 48px;
+  margin: 10px 10px 1px 18px;
+  float: left;
+  background-image: url('../Images/QuickLinks.png');
+  cursor: pointer;
+}
+
+span .q1 {
+  background-position-y: 0px;
+}
+span .q2 {
+  background-position-y: -48px;
+}
+span .q3 {
+  background-position-y: -96px;
+}
+span .q4 {
+  background-position-y: -144px;
+}
+span .q5 {
+  background-position-y: -192px;
+}
+span .q6 {
+  background-position-y: -240px;
+}
+span .q7 {
+  background-position-y: -288px;
+}
+span .q8 {
+  background-position-y: -336px;
+}
+span .q9 {
+  background-position-y: -384px;
+}
+
+span.general div {
+  background-position-x: 0px;
+}
+span.devLinks div {
+  background-position-x: -120px;
+}
+span.webDevTools1 div {
+  background-position-x: -240px;
+}
+span.devOnline div {
+  background-position-x: -360px;
+}
+span.webMail div {
+  background-position-x: -480px;
+}
+span.personal div {
+  background-position-x: -600px;
+}
+span.webDevTools2 div {
+  background-position-x: -720px;
+}
+
+div.bookmarkSet {
+  width: 140px;
+  height: 140px;
+  border: 1px solid black;
+  float: left;
+  padding: 0;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+main.selection .bookmarkSet {
+  width: 260px;
+  height: 280px;
+}
+
+div.bookmarkList {
+  width: 138px;
+  height: 110px;
+  overflow: auto;
+  border-radius: 5px;
+}
+
+main.selection div.bookmarkList {
+  width: 258px;
+  height: 248px;
+}
+
+div.p2,
+div.p3,
+div.p4,
+div.p5 {
+  display: inline;
+}
+
+div.right {
+  float: right;
+  margin: 5px;
+  overflow: hidden;
+}
+
+div.left,
+div.right {
+  height: 440px;
+  overflow: hidden;
+}
+
+/* ----------- P6: Desktop ----------- */
+@media screen and (min-width: 1380px) {
+  main {
+    width: 1365px;
+  }
+
+  section.header {
+    width: 1365px;
+    display: inline-block;
+  }
+
+  main.selection .bookmarkSet {
+    width: 260px;
+    height: 620px;
+  }
+
+  main.selection div.bookmarkList {
+    width: 258px;
+    height: 588px;
+  }
+}
+
+/* ----------- P5: Laptop ----------- */
+@media screen and (max-width: 1380px) {
+  div.p5 {
+    display: none;
+  }
+
+  main {
+    width: 1215px;
+  }
+
+  section.header {
+    width: 1215px;
+    display: inline-block;
+  }
+
+  div.quickLink {
+    margin: 9px 15px 0 14px;
+  }
+
+  main.selection .bookmarkSet {
+    width: 230px;
+    height: 560px;
+  }
+
+  main.selection div.bookmarkList {
+    width: 228px;
+    height: 528px;
+  }
+}
+
+/* ----------- P4: Tablet - landscape ----------- */
+@media screen and (max-width: 1230px) {
+  div.p3,
+  div.p4 {
+    display: none;
+  }
+
+  main {
+    width: 915px;
+  }
+
+  section.header {
+    display: none;
+  }
+
+  main.selection .bookmarkSet {
+    width: 290px;
+    height: 280px;
+  }
+
+  main.selection div.bookmarkList {
+    width: 288px;
+    height: 248px;
+  }
+}
+
+/* ----------- P3: Tablet - portrait ----------- */
+@media screen and (max-width: 925px) {
+  div.p3 {
+    display: inline;
+  }
+
+  div.p4 {
+    display: none;
+  }
+
+  main {
+    width: 765px;
+  }
+
+  main.selection .bookmarkSet {
+    width: 240px;
+  }
+
+  main.selection div.bookmarkList {
+    width: 238px;
+  }
+}
+
+/* ----------- P2: Phone - landscape ----------- */
+@media screen and (max-width: 767px) {
+  .p2,
+  div.p2,
+  div.p3 {
+    display: none;
+  }
+
+  main {
+    width: 615px;
+  }
+
+  h2 {
+    height: 1.5em;
+    font-size: 1em;
+    padding-top: 3px;
+  }
+
+  div.bookmarkSet {
+    height: 132px;
+  }
+
+  div.left,
+  div.right {
+    height: 274px;
+  }
+
+  main.main_menu .bookmarkSet {
+    width: 190px;
+  }
+
+  main.main_menu div.bookmarkList {
+    width: 188px;
+  }
+
+  main.selection .bookmarkSet {
+    width: 290px;
+  }
+
+  main.selection div.bookmarkList {
+    width: 288px;
+  }
+}
+
+/* ----------- P1: Phone - portrait ----------- */
+@media screen and (max-width: 625px) {
+  main {
+    width: 315px;
+    padding-right: 0px;
+  }
+
+  h2 {
+    height: 1.5em;
+    font-size: 1em;
+    padding-top: 3px;
+  }
+
+  div.bookmarkSet {
+    height: 132px;
+  }
+
+  div.bookmarkSet.left {
+    height: 274px;
+  }
+
+  div.right {
+    float: left;
+    height: 274px;
+  }
+
+  main.main_menu .bookmarkSet {
+    width: 140px;
+  }
+
+  main.main_menu div.bookmarkList {
+    width: 138px;
+  }
+}
+
+/* ----------- Wide Laptop ----------- */
+@media screen and (min-width: 1740px) {
+  body {
+    zoom: 1.25;
+  }
+}
+
+/* ----------- SELECTIONS -------------------- */
+main.main_menu,
+body.Search main.Search,
+body.Home main.Home,
+body.Comm main.Comm,
+body.Past main.Past,
+body.Ent main.Ent,
+body.EBook main.EBook,
+body.Gen_SW_1 main.Gen_SW_1,
+body.Gen_SW_2 main.Gen_SW_2,
+body.Dev_SW_1 main.Dev_SW_1,
+body.Dev_SW_2 main.Dev_SW_2,
+body.Google main.Google,
+body.Gen_Dev_1 main.Gen_Dev_1,
+body.Gen_Dev_2 main.Gen_Dev_2,
+body.Web_Dev_1 main.Web_Dev_1,
+body.Web_Dev_2 main.Web_Dev_2,
+body.Web_Dev_3 main.Web_Dev_3,
+body.JS_1 main.JS_1,
+body.JS_2 main.JS_2,
+body.JS_3 main.JS_3 {
+  display: block;
+}
+
+body.Search main.main_menu,
+body.Home main.main_menu,
+body.Comm main.main_menu,
+body.Past main.main_menu,
+body.Ent main.main_menu,
+body.EBook main.main_menu,
+body.Gen_SW_1 main.main_menu,
+body.Gen_SW_2 main.main_menu,
+body.Dev_SW_1 main.main_menu,
+body.Dev_SW_2 main.main_menu,
+body.Google main.main_menu,
+body.Gen_Dev_1 main.main_menu,
+body.Gen_Dev_2 main.main_menu,
+body.Web_Dev_1 main.main_menu,
+body.Web_Dev_2 main.main_menu,
+body.Web_Dev_3 main.main_menu,
+body.JS_1 main.main_menu,
+body.JS_2 main.main_menu,
+body.JS_3 main.main_menu {
+  display: none;
+}
+
+/* ----------- Controls ---------------------- */
+span.controls {
+  display: inline;
+}
+span.controls div {
+  width: 32px;
+  height: 32px;
+  background-image: url(../Images/SearchIcon.png);
+  margin-top: -3px;
+  cursor: pointer;
+}
+span.controls div:hover {
+  background-position-y: -32px;
+}
+section.header .left div {
+  float: left;
+}
+section.header .right div {
+  float: right;
+}
+span.controls div.c00 {
+  background-image: none;
+  cursor: default;
+}
+div.c01 {
+  background-position: 0px 0px;
+}
+div.c02 {
+  background-position: -32px 0px;
+}
+div.c03 {
+  background-position: -64px 0px;
+}
+div.c04 {
+  background-position: -96px 0px;
+}
+div.c05 {
+  background-position: -128px 0px;
+}
+div.c06 {
+  background-position: -160px 0px;
+}
+div.c07 {
+  background-position: -192px 0px;
+}
+div.c08 {
+  background-position: -224px 0px;
+}
+div.c09 {
+  background-position: -256px 0px;
+}
+div.c10 {
+  background-position: -288px 0px;
+}
+div.c11 {
+  background-position: -320px 0px;
+}
+div.c12 {
+  background-position: -352px 0px;
+}
+div.c13 {
+  background-position: -384px 0px;
+}
+div.c14 {
+  background-position: -416px 0px;
+}
+div.c15 {
+  background-position: -448px 0px;
+}
+div.c16 {
+  background-position: -480px 0px;
+}
+div.c17 {
+  background-position: -544px 0px;
+}

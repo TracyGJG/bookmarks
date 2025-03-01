@@ -1,0 +1,114 @@
+
+/* Colour Schemes */
+
+/* Monday */
+body.Day1 { 
+	background-color: #fbb;
+	background-image: url(../Backdrops/Backdrop_1.png);
+	display: block;
+}
+body.Day1 main,
+body.Day1 section.header,
+body.Day1 .bookmarkSet { border-color: #600; }
+body.Day1 h1,
+body.Day1 h2,
+body.Day1 h3 { background-color: #600; background: linear-gradient(#fbb, #600, #fbb); border-bottom: 1px solid #600; }
+body.Day1 h3  { border-top: 1px solid #600; }
+body.Day1 section.header,
+body.Day1 .bookmarkSet { background-color: #fdd; }
+
+/* Tuesday */
+body.Day2 { 
+	background-color: #fdb;
+	background-image: url(../Backdrops/Backdrop_2.png);
+	display: block;
+}
+body.Day2 main,
+body.Day2 section.header,
+body.Day2 .bookmarkSet { border-color: #630; }
+body.Day2 h1,
+body.Day2 h2,
+body.Day2 h3 { background-color: #630; background: linear-gradient(#fdb, #630, #fdb); border-bottom: 1px solid #630; }
+body.Day2 h3  { border-top: 1px solid #630; }
+body.Day2 section.header,
+body.Day2 .bookmarkSet  { background-color: #fed; }
+
+/* Wednesday */
+body.Day3 { 
+	background-color: #ffb;
+	background-image: url(../Backdrops/Backdrop_3.png);
+	display: block;
+}
+body.Day3 main,
+body.Day3 section.header,
+body.Day3 .bookmarkSet { border-color: #660; }
+body.Day3 h1,
+body.Day3 h2,
+body.Day3 h3 { background-color: #660; background: linear-gradient(#ffb, #660, #ffb); border-bottom: 1px solid #660; }
+body.Day3 h3  { border-top: 1px solid #660; }
+body.Day3 section.header,
+body.Day3 .bookmarkSet { background-color: #ffd; }
+
+/* Thursday */
+body.Day4 { 
+	background-color: #bfb;
+	background-image: url(../Backdrops/Backdrop_4.png);
+	display: block;
+}
+body.Day4 main,
+body.Day4 section.header,
+body.Day4 div.bookmarkSet { border-color: #060; }
+body.Day4 h1,
+body.Day4 h2,
+body.Day4 h3  { background-color: #060; background: linear-gradient(#bfb, #060, #bfb); border-bottom: 1px solid #060; }
+body.Day4 h3  { border-top: 1px solid #060; }
+body.Day4 section.header,
+body.Day4 .bookmarkSet { background-color: #dfd; }
+
+/* Friday */
+body.Day5 { 
+	background-color: #bbf;
+	background-image: url(../Backdrops/Backdrop_5.png);
+	display: block;
+}
+body.Day5 main,
+body.Day5 section.header,
+body.Day5 .bookmarkSet { border-color: #006; }
+body.Day5 h1,
+body.Day5 h2,
+body.Day5 h3  { background-color: #006; background: linear-gradient(#bbf, #006, #bbf); border-bottom: 1px solid #006; }
+body.Day5 h3  { border-top: 1px solid #006; }
+body.Day5 section.header,
+body.Day5 .bookmarkSet { background-color: #ddf; }
+
+/* Saturday */
+body.Day6 { 
+	background-color: #dbf;
+	background-image: url(../Backdrops/Backdrop_6.png);
+	display: block;
+}
+body.Day6 main,
+body.Day6 section.header,
+body.Day6 .bookmarkSet { border-color: #306; }
+body.Day6 h1,
+body.Day6 h2,
+body.Day6 h3 { background-color: #306; background: linear-gradient(#dbf, #306, #dbf); border-bottom: 1px solid #306; }
+body.Day6 h3  { border-top: 1px solid #306; }
+body.Day6 section.header,
+body.Day6 .bookmarkSet { background-color: #edf; }
+
+/* Sunday */
+body.Day0 { 
+	background-color: #fbf;
+	background-image: url(../Backdrops/Backdrop_0.png);
+	display: block;
+}
+body.Day0 main,
+body.Day0 section.header,
+body.Day0 .bookmarkSet { border-color: #606; }
+body.Day0 h1,
+body.Day0 h2,
+body.Day0 h3  { background-color: #606; background: linear-gradient(#fbf, #606, #fbf); border-bottom: 1px solid #606; }
+body.Day0 h3  { border-top: 1px solid #606; }
+body.Day0 section.header,
+body.Day0 .bookmarkSet { background-color: #fdf; }

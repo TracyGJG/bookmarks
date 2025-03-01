@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Backdrop Sampler</title>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+      }
+
+      div {
+        width: 50%;
+        height: 120px;
+        background-color: #000;
+        background-image: var(--bg-image);
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main></main>
+
+    <script>
+      const divImg = (set, backdrop) =>
+        `<div style="--bg-image: url('set-${set}/Backdrop_${backdrop}.png');" title="set-${set},backdrop-${backdrop}"></div>`;
+
+      (() => {
+        const setImages = set =>
+          [...'0123456789ABCDEFGHIJKLMNO']
+            .map(img => divImg(set, img))
+            .join('');
+        const sample = set => `
+<article>
+	${setImages(set)}
+</article>`;
+        (domNode => (domNode.innerHTML = [...'0'].map(sample).join('')))(
+          document.querySelector('main')
+        );
+      })();
+    </script>
+  </body>
+</html>

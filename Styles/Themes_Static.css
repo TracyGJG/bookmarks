@@ -1,0 +1,134 @@
+/* Colour Schemes */
+
+/* Monday */
+.Day1 {
+	background-color: #9F2F3F;
+	background-image: url(../Backdrops/Backdrop_1.png);
+	display: block;
+}
+.Day1 main,
+.Day1 section.header,
+.Day1 .bookmarkSet { border-color: #5D0C18; }
+.Day1 h1,
+.Day1 h2,
+.Day1 h3 {
+	background-color: #5D0C18;
+	background: linear-gradient(#F593A0, #5D0C18, #F593A0);
+	border-bottom: 1px solid #5D0C18; }
+.Day1 h3  { border-top: 1px solid #5D0C18; }
+.Day1 section.header,
+.Day1 .bookmarkSet { background-color: #FBC1C9; }
+
+/* Tuesday */
+.Day2 {
+	background-color: #A76C32;
+	background-image: url(../Backdrops/Backdrop_2.png);
+	display: block;
+}
+.Day2 main,
+.Day2 section.header,
+.Day2 .bookmarkSet { border-color: #62370D; }
+.Day2 h1,
+.Day2 h2,
+.Day2 h3 {
+	background-color: #62370D;
+	background: linear-gradient(#FFCB99, #62370D, #FFCB99);
+	border-bottom: 1px solid #62370D; }
+.Day2 h3  { border-top: 1px solid #62370D; }
+.Day2 section.header,
+.Day2 .bookmarkSet { background-color: #FFE1C3; }
+
+/* Wednesday */
+.Day3 {
+	background-color: #A79D32;
+	background-image: url(../Backdrops/Backdrop_3.png);
+	display: block;
+}
+.Day3 main,
+.Day3 section.header,
+.Day3 .bookmarkSet { border-color: #625A0D; }
+.Day3 h1,
+.Day3 h2,
+.Day3 h3 {
+	background-color: #625A0D;
+	background: linear-gradient(#FFF699, #625A0D, #FFF699);
+	border-bottom: 1px solid #625A0D; }
+.Day3 h3  { border-top: 1px solid #625A0D; }
+.Day3 section.header,
+.Day3 .bookmarkSet { background-color: #FFFAC3; }
+
+/* Thursday */
+.Day4 {
+	background-color: #308522;
+	background-image: url(../Backdrops/Backdrop_4.png);
+	display: block;
+}
+.Day4 main,
+.Day4 section.header,
+.Day4 .bookmarkSet { border-color: #0A3F02; }
+.Day4 h1,
+.Day4 h2,
+.Day4 h3 {
+	background-color: #0A3F02;
+	background: linear-gradient(#9ADF8F, #0A3F02, #9ADF8F);
+	border-bottom: 1px solid #0A3F02; }
+.Day4 h3  { border-top: 1px solid #0A3F02; }
+.Day4 section.header,
+.Day4 .bookmarkSet { background-color: #D9F8D4; }
+
+/* Friday */
+.Day5 {
+	background-color: #243B6F;
+	background-image: url(../Backdrops/Backdrop_5.png);
+	display: block;
+}
+.Day5 main,
+.Day5 section.header,
+.Day5 .bookmarkSet { border-color: #051539; }
+.Day5 h1,
+.Day5 h2,
+.Day5 h3 {
+	background-color: #051539;
+	background: linear-gradient(#899AC1, #051539, #899AC1);
+	border-bottom: 1px solid #051539; }
+.Day5 h3  { border-top: 1px solid #051539; }
+.Day5 section.header,
+.Day5 .bookmarkSet { background-color: #DEE4F2; }
+
+/* Saturday */
+.Day6 {
+	background-color: #3F2073;
+	background-image: url(../Backdrops/Backdrop_6.png);
+	display: block;
+}
+.Day6 main,
+.Day6 section.header,
+.Day6 .bookmarkSet { border-color: #1D0548; }
+.Day6 h1,
+.Day6 h2,
+.Day6 h3 {
+	background-color: #1D0548;
+	background: linear-gradient(#AA99C7, #1D0548, #AA99C7);
+	border-bottom: 1px solid #1D0548; }
+.Day6 h3  { border-top: 1px solid #1D0548; }
+.Day6 section.header,
+.Day6 .bookmarkSet { background-color: #E8E5EC; }
+
+/* Sunday */
+.Day0 {
+	background-color: #6B176E;
+	background-image: url(../Backdrops/Backdrop_0.png);
+	display: block;
+}
+.Day0 main,
+.Day0 section.header,
+.Day0 .bookmarkSet { border-color: #400043; }
+.Day0 h1,
+.Day0 h2,
+.Day0 h3 {
+	background-color: #400043;
+	background: linear-gradient(#C190C2, #400043, #C190C2);
+	border-bottom: 1px solid #400043; }
+.Day0 h3  { border-top: 1px solid #400043; }
+.Day0 section.header,
+.Day0 .bookmarkSet { background-color: #ECE5EC; }

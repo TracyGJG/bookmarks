@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>Backdrop Sampler</title>
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: inherit;
+        }
+
+        html {
+            box-sizing: border-box;
+        }
+
+        div {
+            width: 60%;
+            height: 100px;
+            background-color: #000;
+            background-image: var(--bg-image);
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Backdrop Sampler</h1>
+    <main></main>
+
+    <script>
+        const divImg = (set, backdrop) =>
+            `<div style="--bg-image: url('set-${set}/Backdrop_${backdrop}.png');" title="set-${set},backdrop-${backdrop}"></div>`;
+
+        (() => {
+			const setImages = set => [...
+				'0123456'
+			].map(img => divImg(set, img)).join('');
+			const sample = set => `
+<article>
+	<hr/>
+	<h2>Set ${set}</h2>
+	${setImages(set)}
+</article>`;
+			(domNode => (domNode.innerHTML = [...
+				'123456789'
+			].map(sample).join('')))(
+				document.querySelector('main')
+			);
+        })();
+    </script>
+</body>
+
+</html>

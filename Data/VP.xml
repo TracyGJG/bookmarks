@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<!--
+<Link desc="
+" url="
+">
+</Link>
+
+
+
+
+
+js libs
+ref
+tools
+-->
+<BookmarkCollection>
+	<BookmarkSet priority="p1" title="Home" fullTitle="Home Resources" link="Home">
+		<Bookmarks name="Facilities">
+			<Link desc="My DropBox account on the web" url="https://www.dropbox.com/home#!/home">My DropBox</Link>
+			<Link desc="EaW web site" url="http://www.evolveaweb.co.uk/">Evolve a Web</Link>
+			<Link desc="Netlify Web hosting" url="https://app.netlify.com/?_ga=2.207355731.1159902965.1523193394-62077099.1523043644">Netlify</Link>
+			<Link desc="Toolbox" url="https://tgjg-toolbox.netlify.app/">Toolbox</Link>
+			<Link desc="Email files to Dropbox" url="mailto:tracygregory_9f49@sendtodropbox.com">Send to Dropbox</Link>
+			<Link desc="My GitHub account on-line" url="https://github.com/">GIT Hub TracyGJG</Link>
+		</Bookmarks>
+		<Bookmarks name="Suppliers">
+			<Link desc="Broadband and Digital TV" url="https://my.virginmedia.com/home/index">Virgin Media</Link>
+			<Link desc="Computers and Printers" url="http://www.dell.com/support/home/uk/en/ukbsdt1">Dell Support</Link>
+			<Link desc="WD Downloads" url="http://support.wdc.com/downloads.aspx">Western Digital</Link>
+			<Link desc="Buffalo Technology website" url="http://www.buffalo-technology.com/home/">Buffalo</Link>
+			<Link desc="Epson Printer and Scanners" url="http://www.epson.co.uk/">Epson UK</Link>
+			<Link desc="Netgear network devices" url="http://www.netgear.co.uk/">NetGear</Link>
+			<Link desc="Music and Electroics" url="http://www.apple.com/uk/">Apple (UK)</Link>
+		</Bookmarks>
+		<Bookmarks name="Hallstatt">
+			<Link desc="Printer" url="http://192.168.0.3/">Printer</Link>
+			<Link desc="LS-VL1F7" url="http://LS-VL1F7/static/index.html">NAS (New)</Link>
+			<Link desc="LS-GLBB0" url="http://LS-GLBB0/cgi-bin/top.cgi">NAS (Old)</Link>
+			<Link desc="Modem" url="http://192.168.0.1/">Modem</Link>
+		</Bookmarks>
+		<Bookmarks name="Information">
+			<Link desc="Certificate Authority" url="https://letsencrypt.org/">Let&apos;s Encrypt</Link>
+			<Link desc="Raspberry Pi Magazine" url="http://www.themagpi.com/">The MagPi</Link>
+			<Link desc="Web-Encyclopedia" url="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</Link>
+			<Link desc="Internet Movie Database" url="http://www.imdb.com/">IMDB</Link>
+			<Link desc="Online Telephone Directory" url="http://www.yell.com/">YELLow Pages</Link>
+			<Link desc="Computable Knowledge" url="http://www.wolframalpha.com/">Wolfram Alpha</Link>
+			<Link desc="Space Simulation" url="http://www.shatters.net/celestia/">Celestia</Link>
+			<Link desc="On-line Task Management" url="https://trello.com/">Trello</Link>
+			<Link desc="On-line Notebook" url="https://evernote.com/">Evernote</Link>
+			<Link desc="GoClever Elysium VR" url="http://goclever.com/en/goclever-glasses-elysium-vr-plus-pilot">GoClever VR</Link>
+		</Bookmarks>
+		<Bookmarks name="Personal">
+			<Link desc="Misc Projects" url="https://tgjg-misc-projects.netlify.app/">Miscellaneous Projects</Link>
+			<Link desc="Movies DB" url="https://gilmore-movie-db.netlify.app/">Movies Database</Link>
+			<Link desc="Gilmore Family Archive" url="https://gilmore-family-archive.netlify.app/">Gilmore Family Archive</Link>
+			<Link desc="Sudoku eInk" url="https://sudoku-eink.netlify.app/">Sudoku eInk</Link>
+			<Link desc="Personal Blog Site" url="https://moapwad.netlify.app/">Moapwad</Link>
+			<Link desc="Personal Curriculum Vita" url="https://cv-tgjg.netlify.app/">Personal CV</Link>
+			<Link desc="Frome Medical Practice" url="https://fromemedicalpractice.appointments-online.co.uk/patients/home">Doctors</Link>
+			<Link desc="Microsoft Visual Studio Online" url="https://tgjg.visualstudio.com/">Visual Studio</Link>
+			<Link desc="Gloogle cloud storage" url="https://drive.google.com/?tab=wo&amp;authuser=0#my-drive">Google Drive</Link>
+			<Link desc="Microsoft cloud storage" url="https://onedrive.live.com/?cid=9bd4f5a7667f8feb">OneDrive</Link>
+			<Link desc="Apple Apps online" url="https://www.icloud.com">iCloud</Link>
+			<Link desc="On-line iPad storage (10GB)" url="https://app.box.com/files">Box (app)</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p1" title="Commercial" fullTitle="Commercial Contacts" link="Comm">
+		<Bookmarks name="Finances">
+			<Link desc="VOIP Service" url="http://www.skype.com/intl/en-gb/home">Skype Account</Link>
+			<Link desc="Financial Info" url="http://www.ft.com/home/uk">Financial Times</Link>
+			<Link desc="Card Protection" url="http://www.sentinelgold.co.uk/">Sentinel Gold</Link>
+			<Link desc="Primary Bank" url="http://www.firstdirect.co.uk/">First Direct</Link>
+			<Link desc="On-line Card" url="https://www.paypal.com/uk/cgi-bin/webscr?cmd=_home">Paypal</Link>
+			<Link desc="On-line Bank" url="http://www.marbles.com/">Marbles.com</Link>
+			<Link desc="Pension Advice" url="https://online.hl.co.uk/my-accounts/login/forms/1002?cv_name=scisys">Hargreaves Lansdown</Link>
+			<Link desc="Domestic Appliance Cover" url="https://www.domesticandgeneral.com">Dom &amp; Gen</Link>
+		</Bookmarks>
+		<Bookmarks name="Electronics">
+			<Link desc="Electronics Store" url="http://www.maplin.co.uk/">Maplin</Link>
+			<Link desc="Electricals Store" url="http://www.ebuyer.com/">EBuyer</Link>
+			<Link desc="On-line general store" url="http://www.amazon.co.uk/">Amazon</Link>
+			<Link desc="Dell near-new store" url="http://www1.euro.dell.com/content/default.aspx?c=uk&amp;l=en&amp;s=dfh&amp;~ck=betafrbsd">Dell Outlet</Link>
+			<Link desc="Electronics Store" url="http://cpc.farnell.com/">CPC</Link>
+			<Link desc="Electricals Store" url="http://www.pcworld.co.uk/">PC World</Link>
+			<Link desc="Memory Online" url="http://www.mymemory.co.uk/">MyMemory</Link>
+			<Link desc="Electricals Store" url="http://ao.com/">Appliances On-line</Link>
+		</Bookmarks>
+		<Bookmarks name="eBusiness">
+			<Link desc="The Welsh Whisky Company" url="http://www.penderynstore.com/">Penderyn Distillery</Link>
+			<Link desc="PC Services (Frome)" url="http://www.ntscomputing.co.uk/content/laptops.html">NTS Computing</Link>
+			<Link desc="Mobile phones" url="http://www.carphonewarehouse.com/">Carphone Warehouse</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p1"/>
+
+	<BookmarkSet priority="p1" title="Entertainment" fullTitle="Entertainment &amp; Interests" link="Ent">
+		<Bookmarks name="Interactive">
+			<Link desc="Easy physics sandbox in JavaScript" url="http://slicker.me/javascript/physics_sandbox.htm">Physics  Sandbox</Link>
+			<Link desc="Interactive Rubik Cube puzzle" url="http://www.randelshofer.ch/webgl/rubikscube/">Rubik Cube</Link>
+			<Link desc="On-line Spirograph" url="http://nathanfriend.io/inspirograph/">inspirograph</Link>
+			<Link desc="Stick Models" url="http://sodaplay.com/">SodaPlay</Link>
+			<Link desc="HTML5 Game" url="http://www.beautyoftheweb.co.uk/cuttherope">Cut the Rope</Link>
+			<Link desc="On-line Google Earth-base Flight Simulator" url="http://www.barnabu.co.uk/geapi/flightsim/">Google Flight Sim</Link>
+			<Link desc="Animation" url="http://www.muvizu.com/Landing.aspx">MuviZu</Link>
+			<Link desc="Folding Instructions" url="http://www.origami-instructions.com/">Origami</Link>
+			<Link desc="HTML 5 experimentation" url="http://html5demos.com/">HTML5 Demos</Link>
+			<Link desc="Geometry by sketches" url="https://sketchometry.org/en/index.html">Sketchometry</Link>
+			<Link desc="Chrome Experiments" url="http://www.chromeexperiments.com/">HTML5 Demos</Link>
+			<Link desc="Paul Neave&apos;s digital playground" url="http://www.neave.com/">Neave Interactive</Link>
+			<Link desc="Moon-phase calendar" url="http://moongiant.com">Moon Giant</Link>
+			<Link desc="Number Puzzles" url="http://www.numberphile.com/">Numberphile</Link>
+			<Link desc="HTML5 Canvas Demo" url="http://weavesilk.com/">Weave Silk</Link>
+		</Bookmarks>
+		<Bookmarks name="Music">
+			<Link desc="Focus at Will" url="https://www.focusatwill.com/">Focus@Will</Link>
+			<Link desc="Help Me Chill" url="http://www.helpmechill.com/">Chill Radio</Link>
+			<Link desc="Rock Radio" url="http://radioplayer.planetrock.com/">Planet Rock</Link>
+			<Link desc="Folk artist" url="http://www.megsonmusic.co.uk/">Megson</Link>
+			<Link desc="Folk artist" url="http://www.ruarrijoseph.co.uk/">Ruarri Joseph</Link>
+			<Link desc="Folk artist" url="http://www.jezlowe.com">Jez Lowe</Link>
+			<Link desc="Folk artist" url="http://www.sethlakeman.co.uk/">Seth Lakeman</Link>
+			<Link desc="Folk artist" url="http://www.mawkin.co.uk/">Mawkin (Causley)</Link>
+			<Link desc="Folk artist" url="http://www.showofhands.co.uk/">Show of Hands</Link>
+			<Link desc="Established American Blues Artist" url="http://www.jbonamassa.com/">Joe Bonamassa</Link>
+			<Link desc="Blues artist" url="http://www.chantelmcgregor.com/index.html">Chantel McGregor</Link>
+			<Link desc="Young British Blues artist" url="http://www.aynsleylister.co.uk/">Aynsley Lister</Link>
+		</Bookmarks>
+		<Bookmarks name="Information">
+			<Link desc="Science Lives Here" url="http://www.rigb.org/">Royal Institution</Link>
+			<Link desc="Free university courses" url="http://openlearn.open.ac.uk/course/">OU Open Learn</Link>
+			<Link desc="On-line Knowledge" url="http://www.howstuffworks.com/">How Stuff Works</Link>
+			<Link desc="On-line Courses" url="https://www.coursera.org/">Coursera</Link>
+			<Link desc="The open-content textbooks collection" url="http://en.wikibooks.org/wiki/Main_Page">Wikibooks</Link>
+			<Link desc="Free digital books" url="http://bookboon.com/">BookBoon</Link>
+			<Link desc="Audio Books" url="http://librivox.org/">LibriVox</Link>
+			<Link desc="Electronic digital archive" url="http://www.archive.org/">Internet Archive</Link>
+			<Link desc="On-line books" url="http://www.gutenberg.org/">Gutenberg Project</Link>
+			<Link desc="On-line Courses" url="http://it-ebooks.info/">IT-eBooks</Link>
+			<Link desc="The Feynman Lectures on Physics, CalTech" url="http://www.feynmanlectures.caltech.edu/">Feynman Lectures</Link>
+		</Bookmarks>
+		<Bookmarks name="Venues">
+			<Link desc="Cinema" url="http://www.odeon.co.uk/cinemas/trowbridge/216/">Trowbridge Odeon</Link>
+			<Link desc="Frome Cinema" url="http://www.westwaycinema.co.uk/">Westway Cinema Frome</Link>
+			<Link desc="Chinese Restaurant Frome" url="http://www.dragon-pearl.co.uk/">Dragon Pearl</Link>
+			<Link desc="Strode Arms, Cranmore" url="https://www.thestrodearms.co.uk/index">Strode Arms</Link>
+			<Link desc="Chinese Take-away" url="https://www.mikeskitchen.co.uk/">Mike&apos;s Kitchen</Link>
+			<Link desc="Indian Restaurant Frome" url="https://jayskitchenfrome.co.uk/">Jay&apos;s Kitchen</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p5" title="E-Books" fullTitle="E-Books and Online References" link="EBook">
+		<Bookmarks name="E-Books">
+			<Link desc="Git Cheatsheet" url="https://gitsheet.wtf/">GitSheet</Link>
+			<Link desc="A Modern Introduction to Programming" url="https://eloquentjavascript.net/">Eloquent JavaScript</Link>
+			<Link desc="The first six books of the elements of Euclid by Oliver Byrne" url="https://www.c82.net/euclid/">Byrne&apos;s Euclid</Link>
+			<Link desc="Easy Copy-Paste Beautiful CSS" url="https://www.csswand.dev/">CSSWand</Link>
+			<Link desc="Adam Marsden" url="https://adam-marsden.co.uk/css-cheat-sheet">CSS Cheat Sheet</Link>
+			<Link desc="Python e-book" url="https://learnpythonthehardway.org/book/">Python the Hardway</Link>
+			<Link desc="online e-book on Rust" url="https://doc.rust-lang.org/rust-by-example/">Rust by Example</Link>
+			<Link desc="JavaScript for impatient programmers by Dr. Axel Rauschmayer" url="http://exploringjs.com/impatient-js/index.html">Exploring JS</Link>
+			<Link desc="Smashing Magazine" url="https://www.smashingmagazine.com/ebooks/the-webp-manual/">WebP Manual</Link>
+			<Link desc="Flavio Copes" url="https://flaviocopes.com/vue-cheat-sheet/">Vue Cheat sheet</Link>
+			<Link desc="Dmytrish" url="https://dmytrish.net/lib/notes/vuejs.html">Vue Cheat sheet</Link>
+			<Link desc="Functors, Applicatives, And Monads In Pictures" url="http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html">Func. Prog.</Link>
+			<Link desc="Addy Osmani" url="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">Learning JavaScript Design Patterns</Link>
+			<Link desc="CSS Guidelines" url="https://cssguidelin.es/">CSS Guidelines</Link>
+			<Link desc="JavaScript ebook" url="http://domenlightenment.com/">DOM Enlightenment</Link>
+			<Link desc="Ebook on TypeScript" url="https://basarat.gitbooks.io/typescript/">TypeScript</Link>
+			<Link desc="Basarat" url="https://basarat.gitbooks.io/typescript/">TypeScript Deep Dive</Link>
+			<Link desc="Collection of design patterns in JavaScript" url="http://shichuan.github.io/javascript-patterns/">JavaScript Patterns</Link>
+			<Link desc="JavaScript Regular Expression Enlightenment" url="http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/">JS RegEx</Link>
+			<Link desc="Matthew Bystedt" url="http://apike.ca/prog_svg.html">SVG Tutorials</Link>
+			<Link desc="A Practical Guide to SVG" url="https://svgontheweb.com/">SVG on the Web</Link>
+			<Link desc="JavaScript Standard Style" url="http://standardjs.com/">JS Standard</Link>
+			<Link desc="Pocket Guide to Writing SVG" url="http://svgpocketguide.com/book/">SVG Pocket Guide</Link>
+			<Link desc="Tom Preston-Werner" url="http://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</Link>
+			<Link desc="The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript" url="https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/">JS Guide</Link>
+			<Link desc="E-book by Brad Frost" url="https://atomicdesign.bradfrost.com/table-of-contents/">Atomic Design</Link>
+		</Bookmarks>
+		<Bookmarks name="References">
+			<Link desc="Introduction to ES6+" url="https://scrimba.com/g/gintrotoes6">Scrimba ECMAScript 6</Link>
+			<Link desc="A fun and practical Brain.js tutorial" url="https://scrimba.com/g/gneuralnetworks">Scrimba Neural nets</Link>
+			<Link desc="JavaScript Visualizer" url="https://tylermcginnis.com/javascript-visualizer/">JavaScript Visualizer</Link>
+			<Link desc="Interactive Instruction" url="https://scrimba.com">Scrimba</Link>
+			<Link desc="Convert pixel point em rem percent" url="https://websemantics.uk/tools/convert-pixel-point-em-rem-percent/">websemantics</Link>
+			<Link desc="CSS Browser impact chart" url="https://csstriggers.com/">CSS Triggers</Link>
+			<Link desc="Lea Verou" url="http://cubic-bezier.com/#.17,.67,.83,.67">Cubic-Bezier</Link>
+			<Link desc="ZVON" url="http://zvon.org/comp/m/svg.html">SVG References</Link>
+			<Link desc="Sitepoint" url="https://www.sitepoint.com/javascript-truthy-falsy/">JS Truthy-Falsy</Link>
+			<Link desc="Library of SVG Icons" url="https://boxicons.com/">Box Icons</Link>
+			<Link desc="Collection of JS snippets" url="https://30secondsofcode.org/">30Sec of Code</Link>
+			<Link desc="Latitude/Longitude Distance Calculation" url="http://jan.ucc.nau.edu/~cvm/latlongdist.html">LatLong Distance</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Gen Software" fullTitle="General Software" link="Gen_SW_1">
+		<Bookmarks name="Applications">
+			<Link desc="3D Modelling" url="http://www.sketchup.com/">SketchUp</Link>
+			<Link desc="Music/Sound recording and editing" url="http://audacity.sourceforge.net/">Audacity</Link>
+			<Link desc="Free Mind Mapping" url="http://www.edrawsoft.com/freemind.php">FreeMind</Link>
+			<Link desc="Free Paint" url="http://www.dotpdn.com/downloads/pdn.html">Paint.net</Link>
+			<Link desc="Gnu Image Manipulation Program" url="https://www.gimp.org/">GIMP</Link>
+			<Link desc="Google Web Browser" url="http://www.google.co.uk/chrome">Chrome</Link>
+			<Link desc="Image Management" url="http://picasa.google.com/">Picasa</Link>
+			<Link desc="Media Player &amp; Store" url="http://www.apple.com/uk/itunes/overview/">iTunes (UK)</Link>
+			<Link desc="Video Media Player" url="http://download.cnet.com/VLC-Media-Player/3000-13632_4-10267151.html">VLC</Link>
+			<Link desc="Mozilla Browser" url="http://www.mozilla.org/">FireFox</Link>
+			<Link desc="On-line Music Player" url="http://www.spotify.com/en/">Spotify</Link>
+			<Link desc="Desktop Publishing" url="http://www.scribus.net/canvas/Scribus">Scribus</Link>
+			<Link desc="Portable Applications" url="http://portableapps.com/">PortableApps</Link>
+			<Link desc="Real media player" url="http://uk.real.com/">realPlayer</Link>
+			<Link desc="VOIP" url="http://www.skype.com/intl/en-gb/">Skype</Link>
+			<Link desc="WinAmp media player" url="http://www.winamp.com/">WinAmp</Link>
+			<Link desc="Free multi-platform office suite" url="http://www.kingsoftstore.com/">Kingsoft</Link>
+			<Link desc="eBook management tool" url="http://calibre-ebook.com/">Calibre</Link>
+		</Bookmarks>
+		<Bookmarks name="Cloud">
+			<Link desc="On-line Website Builder" url="https://www.silex.me/">Silex</Link>
+			<Link desc="Online CMS" url="http://droppages.com/">DropPages</Link>
+			<Link desc="Static sites using Dropbox/Git" url="https://pancake.io/">PancakeIO</Link>
+			<Link desc="Cloud storage &amp; backup solutions (50GB Storage)" url="http://www.adrive.com/">ADrive</Link>
+			<Link desc="Cloud storage &amp; backup solutions (5GB Storage)" url="http://www.idrive.com/">iDrive</Link>
+			<Link desc="Cloud file hosting service" url="http://www.getdropbox.com/">Dropbox</Link>
+			<Link desc="Google Online Storage" url="https://drive.google.com">Google Drive</Link>
+			<Link desc="Google Blogs" url="https://www.blogger.com/home">Blogger</Link>
+			<Link desc="Instant screen sharing and powerful meeting tool" url="https://join.me">Join Me</Link>
+			<Link desc="MS Online Storage" url="https://onedrive.live.com">One Drive</Link>
+			<Link desc="If THIS then THAT" url="https://ifttt.com/dashboard">IFTTT</Link>
+			<Link desc="Broadband speed calculator" url="http://www.speedtest.net/">Speedtest</Link>
+			<Link desc="Alternative Software Products" url="http://alternativeto.net/">AlternativeTo</Link>
+			<Link desc="C|Net download" url="http://www.download.com/">Download.com</Link>
+			<Link desc="Microsoft download center" url="http://www.microsoft.com/downloads/search.aspx?displaylang=en">Download center</Link>
+			<Link desc="MS-DOS boot disk images" url="http://www.allbootdisks.com/download/dos.html">AllBootDisks</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="Transform your plain text into static websites and blogs" url="http://jekyllrb.com/">Jekyll</Link>
+			<Link desc="curl groks URLs (Official Site)" url="http://curl.haxx.se/">cURL</Link>
+			<Link desc="A complete, cross-platform solution to record, convert and stream audio and video." url="https://www.ffmpeg.org/">FFmpeg</Link>
+			<Link desc="GoW: The lightweight alternative to Cygwin" url="https://github.com/bmatzelle/gow/wiki">Gnu On Windows</Link>
+			<Link desc="Screen zoom and annotation tool" url="http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx">MS ZoomIt</Link>
+			<Link desc="Free Antivirus" url="https://www.avast.com/en-gb/index">Avast</Link>
+			<Link desc="Application that synchronizes files and folders between locations" url="http://www.microsoft.com/download/en/details.aspx?id=15155">MS SyncToy</Link>
+			<Link desc="English thesaurus and dictionary" url="http://wordweb.info/free/">WordWeb</Link>
+			<Link desc="Free edition" url="http://www.jam-software.com/freeware/">TreeSize</Link>
+			<Link desc="Magic ISO Maker" url="http://www.magiciso.com/">MagicISO</Link>
+			<Link desc="PC Virtualisation" url="http://www.virtualbox.org/">Virtual Box</Link>
+			<Link desc="Remote FTP/WebDav access" url="http://www.netdrive.net/">NetDrive</Link>
+			<Link desc="SD Memory Card Formatter" url="https://www.sdcard.org/downloads/formatter_4/">SD Formatter</Link>
+			<Link desc="A non-linear personal web notebook" url="http://tiddlywiki.com/">TiddlyWiki</Link>
+			<Link desc="UI Automation" url="http://www.sikuli.org/">Sikuli</Link>
+			<Link desc="Windows XP Downloads" url="http://windows.microsoft.com/en-US/windows/xp-downloads#2TC=powertoys">XP PowerToys</Link>
+			<Link desc="Client URL utility" url="http://www.confusedbycode.com/curl/">cURL for Windows</Link>
+			<Link desc="webserver" url="http://httpd.apache.org/">Apache</Link>
+			<Link desc="Graphical Calculator" url="https://www.desmos.com/calculator">Graphical Calculator</Link>
+		</Bookmarks>
+		<Bookmarks name="Utilities">
+			<Link desc="Network Analysis" url="http://www.wireshark.org/">WireShark</Link>
+			<Link desc="Remote Access" url="http://www.splashtop.com/">SplashTop</Link>
+			<Link desc="Encryption tools" url="http://www.truecrypt.org/">TrueCrypt</Link>
+			<Link desc="LAN IM" url="http://squiggle.codeplex.com/">Squiggle</Link>
+			<Link desc="Remote Support and Online Meetings" url="http://www.teamviewer.com/en/index.aspx">teamViewer</Link>
+			<Link desc="Qualys SSL labs" url="https://www.ssllabs.com/ssltest/">SSL Test</Link>
+			<Link desc="Free video transcoder" url="https://handbrake.fr/">Handbrake</Link>
+			<Link desc="A Free Telnet/SSH Client" url="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY</Link>
+			<Link desc="Free Video Converter" url="http://www.freemake.com/free_video_converter/">FreeMake</Link>
+			<Link desc="Windows Directory Statistics" url="http://sourceforge.net/projects/windirstat">WinDirStat</Link>
+			<Link desc="PC Purification" url="http://www.piriform.com/">CCleaner</Link>
+			<Link desc="FOSS Disk Imaging and Cloning" url="http://www.clonezilla.org/">Clonezilla</Link>
+			<Link desc="PDF creator" url="http://www.dopdf.com/">doPDF printer</Link>
+			<Link desc="GnuPG Installation guide" url="http://polyplex.org/software/PGP_in_Windows7/">PGP in Win 7</Link>
+			<Link desc="International" url="http://www.pgpi.org/">PGP Int.</Link>
+			<Link desc="Multi-network Instant Messaging client" url="http://www.pidgin.im/">Pidgin IM</Link>
+			<Link desc="A new era of messaging" url="https://telegram.org/">Telegram</Link>
+			<Link desc="Simple. Secure. Reliable messaging" url="https://www.whatsapp.com/">WhatsApp</Link>
+			<Link desc="Checksum" url="http://download.cnet.com/MD5-SHA-1-Checksum-Utility/3000-2092_4-10911445.html">MD5/SHA-1</Link>
+			<Link desc="Converter" url="http://xps2pdf.co.uk/">XPS 2 PDF</Link>
+		</Bookmarks>
+		<Bookmarks name="Linux">
+			<Link desc="Embedded Linux Wiki" url="http://elinux.org/Main_Page">eLinux</Link>
+			<Link desc="Backup, create image of your bootable USB drive" url="http://wintoflash.com/home/en/">WinToFlash</Link>
+			<Link desc="ISO Extractor" url="http://www.isoopener.com">ISO Opener</Link>
+			<Link desc="ISO Image Burner" url="http://www.imgburn.com/">ImgBurn</Link>
+			<Link desc="LinuxLive USB Creator" url="http://www.linuxliveusb.com/">LiLi</Link>
+			<Link desc="Tool for writing images to USB sticks or SD/CF cards" url="https://launchpad.net/win32-image-writer">Image Writer</Link>
+			<Link desc="USB Installer" url="http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/">USB Linux</Link>
+			<Link desc="Create bootable Live USB drives" url="http://unetbootin.sourceforge.net/">UNetBootin</Link>
+			<Link desc="Linux emulator" url="http://www.cygwin.com/">Cygwin</Link>
+			<Link desc="Linux distribution monitor" url="http://distrowatch.com/">Distro Watch</Link>
+			<Link desc="Questions" url="http://www.linuxquestions.org/questions/fedora-35/">Linux Qs</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p3" title="Gen Software" fullTitle="General Software" link="Gen_SW_2">
+		<Bookmarks name="Applications">
+			<Link desc="Open 3D Model Viewer" url="http://www.open3mod.com/">open3mod</Link>
+			<Link desc="Photorealistic 3D Rendering" url="http://www.blender.org/">Blender</Link>
+			<Link desc="Automation language" url="http://www.autoitscript.com/site/">AUTOIT</Link>
+			<Link desc="Free Pascal IDE" url="http://www.lazarus.freepascal.org/">Lazarus</Link>
+			<Link desc="Media Player" url="http://xbmc.org/about/">XBMC/KODI</Link>
+			<Link desc="Media converters" url="http://www.minidvdsoft.com">Mini DVD Soft</Link>
+			<Link desc="Remote desktop" url="http://www.nomachine.com/">NoMachine</Link>
+			<Link desc="Enhanced desktop notes" url="http://www.veign.com">Veign Note-It</Link>
+			<Link desc="Open-source Office Suite" url="http://www.libreoffice.org/">Libre Office</Link>
+			<Link desc="Open-source Office Suite" url="http://www.openoffice.org/">Apache OpenOffice</Link>
+			<Link desc="Send free messages and make free calls on the Internet" url="http://www.viber.com/">Viber</Link>
+		</Bookmarks>
+		<Bookmarks name="Cloud">
+			<Link desc="Online Photo Editor" url="https://www.photopea.com/">Photopea</Link>
+			<Link desc="Online Photo Editor" url="https://v2.polarr.co">Polarr</Link>
+			<Link desc="Clipart repository" url="https://openclipart.org/">Open Clipart</Link>
+			<Link desc="Sounds repository" url="https://www.freesound.org/">FreeSound</Link>
+			<Link desc="Leanpub: Publish Early, Publish Often" url="https://leanpub.com/">LeanPub</Link>
+			<Link desc="Simplified Scheduling" url="http://doodle.com/">Doodle</Link>
+			<Link desc="Developers bringing fire to the people" url="http://scotch.io/">Scotch IO</Link>
+			<Link desc="Online development community" url="http://plnkr.co/">PLNKR</Link>
+			<Link desc="Programming Chrestomathy" url="http://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</Link>
+			<Link desc="The best Web Clipper in town" url="http://www.memonic.com/">memonic</Link>
+			<Link desc="Because newer is not always better" url="http://www.oldversion.com/">Old Versions</Link>
+			<Link desc="Creator" url="http://slayeroffice.com/tools/color_palette/">Color Palette</Link>
+			<Link desc="File conversion" url="http://www.zamzar.com/">Zamzar</Link>
+			<Link desc="File format converter" url="http://www.youconvertit.com/">File conversion</Link>
+			<Link desc="Free, simple video chat" url="https://vline.com">vLine</Link>
+			<Link desc="Online paintbox" url="http://www.psykopaint.com/">PsykoPaint</Link>
+			<Link desc="Online paintbox" url="http://www.sumopaint.com/app/">Sumo Paint</Link>
+			<Link desc="PDF Generator" url="http://fivefilters.org/">Five Filters</Link>
+			<Link desc="Productivity Dashboard" url="http://www.wunderkit.com">Wunderkit</Link>
+			<Link desc="Online sprite tool" url="http://www.spritecow.com/">Spritecow</Link>
+			<Link desc="CocoonJS is a platform to test, accelerate, deploy HTML5 apps" url="https://www.ludei.com/cocoonjs/">Cocoon.JS</Link>
+			<Link desc="Graphic design tool" url="https://gravit.io/">Gravit</Link>
+			<Link desc="On-line Pixle-art editor" url="https://make8bitart.com/">Make 8-Bit Art</Link>
+			<Link desc="On-line Pixle-art editor" url="http://makepixelart.com/free/">Make Pixel Art</Link>
+			<Link desc="On-line icon converter" url="https://iconverticons.com/">iConvertIcons</Link>
+			<Link desc="Free online diagram software" url="https://www.draw.io/">Draw.io</Link>
+			<Link desc="SCALABLE VECTOR GRAPHICS EDITOR" url="https://boxy-svg.com/app">Boxy SVG</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="Free Network Analysis tools" url="http://www.colasoft.com/download/index.php#freeware">Colasoft</Link>
+			<Link desc="FREE digital painting and illustration application" url="https://krita.org/">Krita</Link>
+			<Link desc="Free Antivirus and Spyware" url="http://windows.microsoft.com/en-GB/windows/security-essentials-download">Security Essentials</Link>
+			<Link desc="HP Remote Graphics Software" url="http://www8.hp.com/us/en/campaigns/workstations/remote-graphics-software.html?jumpid=ex_r11260_go_rgs">HP RGS</Link>
+			<Link desc="Remote Desktop Software" url="http://www.aeroadmin.com/en/">AeroAdmin</Link>
+			<Link desc="Remote support tool that connections between remote computers over the web" url="http://www.remote-control-desktop.com/">imPcRemote</Link>
+			<Link desc="File Backup &amp; Synchronization" url="http://www.goodsync.com/">GoodSync</Link>
+			<Link desc="Customizable screenshot" url="http://app.prntscr.com/">LightShot</Link>
+			<Link desc="Screenshot tool" url="http://getgreenshot.org/">GreenShot</Link>
+			<Link desc="Optimizing &amp; Cleaning Powerfully and Securely" url="http://www.iobit.com/advancedsystemcareper.php">Advanced SystemCare</Link>
+			<Link desc="Most Effective and Easiest-to-use Driver Updater" url="http://www.iobit.com/driver-booster.php">Driver Booster</Link>
+			<Link desc="Binary/BitMap de/encoder" url="http://hyperloop.net/content/exe_utilities/bump.html">BUMP</Link>
+			<Link desc="Windows Sysnternals" url="http://technet.microsoft.com/en-us/sysinternals/default">Win Sys Internals</Link>
+			<Link desc="Free NonVisual Desktop Access (NVDA) screen reader" url="http://www.nvaccess.org/">NVDA</Link>
+			<Link desc="Connect and communicate to different types of servers" url="http://uk.php.net/curl">Client URL Library</Link>
+			<Link desc="Open Source Enterprise Wiki and Web Application Platform" url="http://twiki.org/">TWiki</Link>
+			<Link desc="Abyss Web Server" url="http://www.aprelium.com/abyssws/">Aprelium</Link>
+		</Bookmarks>
+		<Bookmarks name="Utilities">
+			<Link desc="Windows USB/DVD Download Tool" url="http://wudt.codeplex.com/">CodePlex WUDT</Link>
+			<Link desc="Creates or modifies environment variables in the user or system environment." url="http://technet.microsoft.com/en-us/library/cc755104(v=ws.10).aspx">MS SetX</Link>
+			<Link desc="Disk Space Analyzer" url="http://www.diskspacefan.com/index.html">Disk Space Fan</Link>
+			<Link desc="File Searching Utility" url="http://www.mythicsoft.com/agentransack">Agent Ransack</Link>
+			<Link desc="File attribute editor" url="http://www.petges.lu/home/">Attribute Changer</Link>
+			<Link desc="Free e-mail server" url="http://www.hmailserver.com/">hMailServer</Link>
+			<Link desc="Data Recovery tools" url="http://www.minitool.ca/index.html">MiniTools</Link>
+			<Link desc="Disk, folder and file Analysis" url="http://www.jgoodies.com/freeware/jdiskreport/">JDiskReport</Link>
+			<Link desc="GNU Privacy Guard for Windows" url="http://www.gpg4win.org/">Gpg4win</Link>
+			<Link desc="GNU Privacy Guard" url="http://www.gnupg.org/">GnuPG</Link>
+			<Link desc="Gnome Partition Editor" url="http://gparted.sourceforge.net/">GPartEd</Link>
+			<Link desc="Media Converter" url="http://www.flv-converter.org/">FLV Converter</Link>
+			<Link desc="Multimedia tools" url="http://www.dvdvideosoft.com/">DVD Video Soft</Link>
+			<Link desc="High performance, low-overhead traceroute application" url="http://www.pingplotter.com/freeware.html">Ping plotter</Link>
+			<Link desc="Share images and short videos of your computer screen" url="http://www.techsmith.com/jing.html">Jing</Link>
+			<Link desc="Create bootable USB drives the easy way" url="https://rufus.ie/">Rufus</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Dev Software" fullTitle="Development Software One" link="Dev_SW_1">
+		<Bookmarks name="Utilties">
+			<Link desc="Seamless color palette generation" url="https://copypalette.netlify.app/">CopyPalette</Link>
+			<Link desc="Gallery of Fantastic and Unique CSS Gradients" url="https://www.gradientmagic.com/">Gradient Magic</Link>
+			<Link desc="Display customizable skins on your desktop" url="https://www.rainmeter.net/">RainMeter</Link>
+			<Link desc="Free Vector Graphics Editor" url="https://vectr.com/">Vectr</Link>
+			<Link desc="Free Vector design app" url="https://www.designer.io/">Gravit Designer</Link>
+			<Link desc="Test Mail Server Tool - test SMTP Server" url="http://www.toolheap.com/test-mail-server-tool/">TMST</Link>
+			<Link desc="Simple to use network simulation" url="http://wanulator.de/">Wanulator</Link>
+			<Link desc="Window Apache Web Server, MySQL &amp; PHP" url="http://www.wampserver.com/en/">WAMP Server</Link>
+			<Link desc="XForms for Web Browsers" url="http://code.google.com/p/ubiquity-xforms/">Ubiquity XForms</Link>
+			<Link desc="XML Editor" url="http://www.mindfusion.eu/product1.html">XMLViewer</Link>
+			<Link desc="Minimalist GNU for Windows" url="http://www.mingw.org/">MinGW</Link>
+			<Link desc="Multi-Web browser" url="http://www.lunascape.tv/Europe/enGB.aspx">Lunascape</Link>
+			<Link desc="Basic HTTP server" url="http://nginx.org/en/">NGiNX</Link>
+			<Link desc="Differencing and merging tool for Windows" url="http://winmerge.org/">WIN Merge</Link>
+			<Link desc="Network Virtualisation" url="http://www.shunra.com/">Shunra</Link>
+			<Link desc="SVG Editor" url="http://www.inkscape.org/">InkScape</Link>
+			<Link desc="Apache SVG Toolkit" url="http://xmlgraphics.apache.org/batik/">Batik</Link>
+			<Link desc="Scalable real-time backend" url="https://www.firebase.com/">Firebase</Link>
+			<Link desc="Validator" url="http://validator.w3.org/">W3C HTML</Link>
+			<Link desc="Pixel Perfect Icon Solutions" url="https://icomoon.io/">IcoMoon</Link>
+			<Link desc="Open-source database for the realtime web" url="https://www.rethinkdb.com/">RethinkDB</Link>
+		</Bookmarks>
+		<Bookmarks name="Applications">
+			<Link desc="Next-generation Web Editor" url="http://www.bluegriffon.org/">Blue Griffon</Link>
+			<Link desc="Hackable text editor" url="https://atom.io/">Atom</Link>
+			<Link desc="Easy Web Authoring" url="http://kompozer.net/">KompoZer</Link>
+			<Link desc="NetBeans Integrated Development Environment" url="http://netbeans.org/">NetBeans IDE</Link>
+			<Link desc="Anjuta DevStudio is a versatile software development studio" url="http://projects.gnome.org/anjuta/features.html">Anjuta IDE</Link>
+			<Link desc="Eclipse-based Web Application IDE" url="http://www.aptana.com/">Aptana Studio</Link>
+			<Link desc="Free IDE (Integrated Development Environment)" url="http://www.eclipse.org/">Eclipse</Link>
+			<Link desc="Enterprise Content Platform" url="http://www.alfresco.com/">Alfresco</Link>
+			<Link desc="A web-application for creating online- and print-documentation from the same source" url="http://www.docmenta.org">Documenta</Link>
+			<Link desc="An award-winning content management system (CMS)" url="http://www.joomla.org/">Joomla CMS</Link>
+			<Link desc="Virtual Dev environment" url="http://www.vagrantup.com/">Vagrant</Link>
+			<Link desc="XML and DTD editor" url="http://www.tucows.com/preview/507699/WmHelp-XmlPad">WmHelp XmlPad</Link>
+			<Link desc="Community Edition UML design tool" url="http://www.visual-paradigm.com/download/vpuml.jsp?edition=ce">Visual Paradigm</Link>
+			<Link desc="Open-source Comtent Management platform" url="https://drupal.org/">Drupal CMS</Link>
+			<Link desc="Build a Joomla Website" url="http://www.buildajoomlawebsite.com/">Joomla Tutorial</Link>
+			<Link desc="Non-DB Wiki" url="https://www.dokuwiki.org/dokuwiki">DokuWiki</Link>
+			<Link desc="Free project scheduling and management app for Windows, OSX and Linux." url="http://www.ganttproject.biz/">Gantt Project</Link>
+		</Bookmarks>
+		<Bookmarks name="Cloud">
+			<Link desc="a regex cheatsheet for the haters" url="https://ihateregex.io/">iHateRegex</Link>
+			<Link desc="Tool for creating, testing, and learning about Regular Expressions." url="https://regexr.com/">RegExr</Link>
+			<Link desc="JavaScript Regular Expression Visualizer." url="https://jex.im/regulex/">Regulex</Link>
+			<Link desc="On-line development and deployment environment" url="https://hyperdev.com">HyperDev</Link>
+			<Link desc="Regular Expression diagrammer" url="https://regexper.com/">RegExper</Link>
+			<Link desc="Your development environment, in the cloud" url="https://c9.io/">Cloud9</Link>
+			<Link desc="Paletton, Color Scheme Designer" url="http://paletton.com/#uid=5000u0kd7BH3GWx8iNxhRtwmeov">Paletton</Link>
+			<Link desc="Mozilla Developer Network" url="https://developer.mozilla.org/en-US/">MDN</Link>
+			<Link desc="Online CSS debugger" url="http://csslint.net/">CSS Lint!</Link>
+			<Link desc="Resources for a better web" url="http://www.webplatform.org/">WebPlatform.org</Link>
+			<Link desc="Professional training company focused on open source development" url="https://thenewcircle.com/">New Circle</Link>
+			<Link desc="Web Code UI" url="http://dabblet.com/">Dabblet</Link>
+			<Link desc="Web debugging proxy" url="http://fiddler2.com/home">Fiddler</Link>
+			<Link desc="Ultimate CSS Gradient Generator" url="http://www.colorzilla.com/gradient-editor/">Colorzilla</Link>
+			<Link desc="Matthew Lein&apos;s Css Easing Animation Tool" url="http://matthewlein.com/ceaser/">Ceaser</Link>
+			<Link desc="color palette based on the predominant colors in your image" url="http://palettegenerator.com/">Palette Generator</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="A Java Virtual Machine written in 100% JavaScript" url="http://plasma-umass.github.io/doppio-demo/">DoppioJVM</Link>
+			<Link desc="VIM Tutorial" url="http://vim-adventures.com/">Vim Adventures</Link>
+			<Link desc="A source code editor and MS Windows Notepad replacement." url="http://sourceforge.net/projects/notepad-plus/">Notepad++</Link>
+			<Link desc="A powerful, general purpose editor for plain text files" url="http://www.textpad.com/">TextPad</Link>
+			<Link desc="GNU Vin Editor" url="http://www.vim.org/index.php">gVIm</Link>
+			<Link desc="GTK+ based diagram creation program" url="https://live.gnome.org/Dia">DIA</Link>
+			<Link desc="GUI Designer" url="http://glade.gnome.org/">Glade</Link>
+			<Link desc="Graph Editor" url="http://www.yworks.com/en/products_yed_about.html">yEd</Link>
+			<Link desc="Group Integration tool" url="https://git-for-windows.github.io/">GIT for Windows</Link>
+			<Link desc="Browser automation tool" url="http://seleniumhq.org/">Selenium HQ</Link>
+			<Link desc="Colour Picker" url="http://www.iconico.com/colorpic/">Iconico</Link>
+			<Link desc="Colour Picking tool" url="http://www.colorschemer.com/colorpix_info.php">Color Schemer</Link>
+			<Link desc="UI Designer" url="http://pencil.evolus.vn/">Pencil</Link>
+			<Link desc="Git client from Atlassian" url="https://www.sourcetreeapp.com/">SourceTree</Link>
+			<Link desc="literally the future of vim" url="https://neovim.io/">NeoVim</Link>
+		</Bookmarks>
+		<Bookmarks name="Langs &amp; Libs">
+			<Link desc="A web application for constructing dashboards" url="http://www.cyclotron.io/index.html">Cyclotron</Link>
+			<Link desc="Neural Network On-line" url="http://playground.tensorflow.org">TensorFlow</Link>
+			<Link desc="ClojureScript One Guide" url="http://clojurescriptone.com/">ClojureScript Tuition</Link>
+			<Link desc="Suite to create, edit, compose, or convert bitmap images" url="http://www.imagemagick.org/">ImageMagick</Link>
+			<Link desc="Free SOA Platform" url="http://wso2.com/">WSO2</Link>
+			<Link desc="Apache + MySQL + PHP + Perl Dev Enviro" url="http://www.apachefriends.org/en/xampp.html">XAMPP Platform</Link>
+			<Link desc="GitHub" url="http://angular-ui.github.io/">Angular UI</Link>
+			<Link desc="User interface components for web apps" url="https://vaadin.com">Vaadin</Link>
+			<Link desc="Cross-platform professional Pascal compiler" url="http://www.freepascal.org/">Free PASCAL</Link>
+			<Link desc="Cross-platform framework" url="http://www.java.com/en/">Java</Link>
+			<Link desc="API libraries and developer tools necessary to build, test, and debug apps for Android" url="http://developer.android.com/sdk/index.html">Android SDK</Link>
+			<Link desc="Object-Oriented Meets Functional" url="http://www.scala-lang.org/">Scala</Link>
+			<Link desc="A dynamic programming language that targets JVM, CLR and JS" url="http://clojure.org/">Clojure</Link>
+			<Link desc="PHP Home" url="http://www.php.net/">PHP</Link>
+			<Link desc="PHP-based admin tool for MySQL" url="http://www.phpmyadmin.net">PhpMyAdmin</Link>
+			<Link desc="PHP-base API" url="https://apigility.org/">PHP APIgility</Link>
+			<Link desc="Programming language for simple scripts and complex applications" url="http://strawberryperl.com/">Strawberry Perl</Link>
+			<Link desc="Reactive Components for Modern Web Interfaces" url="http://vuejs.org/">Vue.js</Link>
+			<Link desc="An extensive math library for JavaScript and Node.js" url="http://mathjs.org/">Math.JS</Link>
+			<Link desc="Simple yet flexible JavaScript charting" url="http://www.chartjs.org/">Charts JS</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Dev Software" fullTitle="Development Software Two" link="Dev_SW_2">
+		<Bookmarks name="Utilties">
+			<Link desc="Distributed version control system " url="http://git-scm.com/">GIT VC</Link>
+			<Link desc="Git for Windows" url="http://msysgit.github.io/">MsysGit</Link>
+			<Link desc="IE Test Multi-Browser" url="http://www.my-debugbar.com/wiki/IETester/HomePage">IETester</Link>
+			<Link desc="Programmer&apos;s notepad" url="http://www.pnotepad.org/">PNotepad</Link>
+			<Link desc="The Drip and IE Sieve leak detectors" url="http://sourceforge.net/projects/ieleak/">IE Leak Detector</Link>
+			<Link desc="client-side xForms implementation" url="http://www.agencexml.com/xsltforms.htm">Agence XML</Link>
+			<Link desc="Online Web Tools" url="http://websemantics.ca/">Web Semantics</Link>
+			<Link desc="Open Source Cold Fusion" url="http://www.openbluedragon.org/">Blue Dragon</Link>
+			<Link desc="Preinstalled Environment bootable live windows CD/DVD" url="http://www.nu2.nu/pebuilder/">Bart&apos;s PE</Link>
+		</Bookmarks>
+		<Bookmarks name="Cloud">
+			<Link desc="CSS3 Transforms" url="http://cubic-bezier.com/#.17,.67,.83,.67">CSS cubic-bezier</Link>
+			<Link desc="Ordnance Survey maps" url="http://openspace.ordnancesurvey.co.uk/openspace/">OS OpenSpace</Link>
+			<Link desc="On-line SVG Editor" url="https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html">SVG-Editor</Link>
+			<Link desc="CSS3 Easing functions" url="http://easings.net/">Easing</Link>
+			<Link desc="Free to use map of the world" url="http://www.openstreetmap.org/#map=5/51.500/-0.100">OpenStreetMap</Link>
+			<Link desc="Data URL Maker" url="http://www.procato.com/dataurl/">Procato</Link>
+			<Link desc="Animated SVG spinners" url="http://svgcircus.com/">SVG Circus</Link>
+			<Link desc="SVG Circular Menu Generator by Sara Soueidan" url="http://sarasoueidan.com/tools/circulus/">Circulus</Link>
+			<Link desc="Software hosting provider" url="http://sourceforge.net/">SourceForge</Link>
+			<Link desc="Original DHTML &amp; Javascripts to enhance your web site" url="http://tools.dynamicdrive.com/gradient/">Gradient Images</Link>
+			<Link desc="IBM Developer Community" url="http://www.ibm.com/developerworks">Developer Works</Link>
+			<Link desc="A JavaScript, HTML and CSS playground" url="http://jsbin.com/">JSBin</Link>
+			<Link desc="On-line development tool" url="https://glitch.com/edit/#!/zesty-brace">Glitch</Link>
+			<Link desc="Data URL Maker" url="http://dataurl.net/#dataurlmaker">Data URL</Link>
+			<Link desc="100% free Fonts" url="http://www.fontsquirrel.com/">Font Squirrel</Link>
+			<Link desc="GIF generator" url="http://www.ajaxload.info/">Ajaxload</Link>
+			<Link desc="Unlimited private code repositories" url="https://bitbucket.org">BitBucket</Link>
+			<Link desc="Generator" url="http://cooltext.com/">Cool Text</Link>
+			<Link desc="The iconic font and CSS toolkit" url="http://fontawesome.io/">Font-Awesome</Link>
+			<Link desc="On-line Font Editor" url="https://fontdrop.info/">FontDrop!</Link>
+			<Link desc="Write the Web On the Web" url="https://thimble.mozilla.org/en-GB">Thimble</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="PDT" url="http://www.zend.com/en/company/community/pdt">PHP Dev Tool</Link>
+			<Link desc="FontLab Studio" url="http://www.fontlab.com/">FontLab</Link>
+			<Link desc="GNU Font Editor" url="http://www.gnu.org/software/gfe/">GFE</Link>
+			<Link desc="PHP ORM" url="http://www.doctrine-project.org/">PHP ORM</Link>
+			<Link desc="PHP Documentor" url="http://www.phpdoc.org/">phpDocumentor</Link>
+			<Link desc="PHP Unit testing" url="http://phpunit.de/">phpUnit</Link>
+			<Link desc="PHP XDebug Extension" url="http://xdebug.org/index.php">XDebug</Link>
+			<Link desc="A JavaScript-based interaction design tool for the web" url="http://ixedit.com/">IxEdit - Web UI</Link>
+			<Link desc="Environment Editor" url="http://eveditor.com/">EvEditor</Link>
+			<Link desc="Hex Editor and Disk Editor" url="http://mh-nexus.de/en/hxd/">HxD</Link>
+			<Link desc="Hex Editor" url="http://www.hexedit.com">HexEdit</Link>
+			<Link desc="A simple intuitive user interface for browsing and editing XML documents" url="http://www.microsoft.com/en-us/download/details.aspx?id=7973">XML Notepad</Link>
+			<Link desc="Microsoft Core XML Services" url="http://www.microsoft.com/en-us/download/details.aspx?id=3988">MS XML 6</Link>
+			<Link desc="SCIntilla based Text Editor" url="http://www.scintilla.org/SciTE.html">SciTE</Link>
+			<Link desc="Business Intelligence and Reporting Tools" url="https://www.eclipse.org/birt/phoenix/">Eclipse BIRT</Link>
+			<Link desc="Business application framework" url="https://www.eclipse.org/scout/">Eclipse Scout</Link>
+			<Link desc="HTA Editor/Debugger" url="http://www.htaedit.com/">HTAEdit</Link>
+			<Link desc="A quick-and-dirty documentation generator" url="http://jashkenas.github.io/docco/">Docco</Link>
+		</Bookmarks>
+		<Bookmarks name="DB &amp; Storage">
+			<Link desc="An open-source Non-SQL document database" url="http://www.mongodb.org/">MongoDB</Link>
+			<Link desc="An open source advanced key-value store" url="http://redis.io/">Redis</Link>
+			<Link desc="Library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine" url="http://www.sqlite.org/">SQLite</Link>
+			<Link desc="Scaleable distributed file system" url="http://www.gluster.org/">GlusterFS</Link>
+			<Link desc="The world&apos;s most popular open source database" url="http://www.mysql.com/">MySQL</Link>
+			<Link desc="Open-Source Database" url="http://www.postgresql.org/">PostgreSQL</Link>
+			<Link desc="An enhanced, drop-in replacement for MySQL" url="https://mariadb.org/">MariaDB</Link>
+			<Link desc="Web based MySQL administration" url="http://sqlbuddy.com/">SQLBuddy</Link>
+			<Link desc="PostgreSQL Admin tool" url="http://www.pgadmin.org/">pgAdmin</Link>
+			<Link desc="Windows app for exploring and manipulating tabular data" url="https://sqlnotebook.com/">SQL Notebook</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p5"/>
+
+	<BookmarkSet priority="p2" title="Google et al" fullTitle="Google and Others" link="Google">
+		<Bookmarks name="Google Dev">
+			<Link desc="Source code repository" url="http://code.google.com/">Code</Link>
+		</Bookmarks>
+		<Bookmarks name="Raspberry Pi">
+			<Link desc="Fedora Installation" url="http://zenit.senecac.on.ca/wiki/index.php/Raspberry_Pi_Fedora_Remix_Installation">Fedora Remix</Link>
+			<Link desc="SD Card OS Installations" url="http://www.raspberrypi.org/downloads/">OS Downloads</Link>
+			<Link desc="Fedora installation for ARM" url="https://fedoraproject.org/wiki/Architectures/ARM/Installer">Fedora ARM</Link>
+			<Link desc="Raspberry Pi Home Site" url="http://www.raspberrypi.org/">Home Site</Link>
+			<Link desc="Raspberry Pi Fedora Linux" url="http://www.raspberrypi.org/archives/tag/fedora">Fedora for Pi</Link>
+			<Link desc="Store" url="http://uk.farnell.com/?COM=element14_store_main">Element 14</Link>
+			<Link desc="MagPi Magazine" url="http://www.themagpi.com/">MagPi</Link>
+			<Link desc="Raspbery Pi/Debian Linux" url="http://www.raspbian.org/">Raspbian</Link>
+			<Link desc="Raspbery Pi Accessories" url="http://thepihut.com/">The Pi Hut</Link>
+			<Link desc="Raspbery Pi Store" url="http://swag.raspberrypi.org/">Pi Swag</Link>
+		</Bookmarks>
+		<Bookmarks name="Linux">
+			<Link desc="Linux distro" url="http://fedoraproject.org/">Fedora Project</Link>
+			<Link desc="Linux distro" url="http://www.pclinuxos.com/">PC Linux OS</Link>
+			<Link desc="Linux distro" url="http://www.debian.org/">Debian</Link>
+			<Link desc="Community Forum" url="http://www.fedoraforum.org/">Fedora Forum</Link>
+			<Link desc="An open-source operating system for the web" url="http://www.chromium.org/chromium-os">Chrome OS</Link>
+			<Link desc="Sun, now Oracle" url="http://www.oracle.com/technetwork/server-storage/solaris11/downloads/index.html?ssSourceSiteId=ocomen">Solaris</Link>
+			<Link desc="Linu" url="http://www.ubuntu.com/">Ubuntu</Link>
+			<Link desc="Linux distro for Win Users" url="http://zorin-os.com/index.html">Zorin</Link>
+			<Link desc="Linux distro with a lightweight desktop environment" url="http://www.linuxmint.com/">Linux Mint</Link>
+			<Link desc="Unofficial Open webOS liveCD/USB" url="http://penkia.blogspot.ca/2012/10/unofficial-open-webos-livecdusb.html">WebOS</Link>
+			<Link desc="Linux distro with a first-class desktop experience" url="https://solus-project.com/">Solus</Link>
+		</Bookmarks>
+		<Bookmarks name="Python">
+			<Link desc="Programming Language" url="https://www.python.org/">Python</Link>
+			<Link desc="IPython Interactive Computing" url="http://ipython.org/">IP[y]</Link>
+			<Link desc="Python for Eclipse" url="http://pydev.org/">Python IDE</Link>
+			<Link desc="Framework" url="https://www.djangoproject.com/">Django</Link>
+			<Link desc="Tutorials" url="http://docs.python.org/2.7/tutorial/index.html">2.7 Tutorial</Link>
+			<Link desc="Reference" url="http://docs.python.org/2.7/reference/index.html">2.7 Language</Link>
+			<Link desc="Libraries" url="http://docs.python.org/2.7/reference/index.html">2.7 Standard Libs</Link>
+			<Link desc="Tutorials" url="http://docs.python.org/dev/tutorial/index.html">3.x Tutorial</Link>
+			<Link desc="Reference" url="http://docs.python.org/dev/reference/index.html">3.x Language</Link>
+			<Link desc="Libraries" url="http://docs.python.org/dev/library/index.html">3.x Standard Libs</Link>
+			<Link desc="Pythone IDE for Windows" url="http://code.google.com/p/pyscripter/">PyScripter</Link>
+			<Link desc="eBook" url="http://www.djangobook.com/en/2.0/index.html">Django Book</Link>
+			<Link desc="Open source content management system based on the Web framework Django" url="https://www.django-cms.org/en/">Django CMS</Link>
+			<Link desc="Python 2 executable converter" url="http://www.py2exe.org/">Py2exe</Link>
+			<Link desc="Python IDE by JetBrains" url="https://www.jetbrains.com/pycharm/">PyCharm</Link>
+		</Bookmarks>
+		<Bookmarks name="Languages">
+			<Link desc="Real World Haskell" url="http://book.realworldhaskell.org/read/">Haskell Books</Link>
+			<Link desc="Haskell 98-based Language" url="http://www.haskell.org/hugs/">Hugs 98</Link>
+			<Link desc="Learn You a Haskell" url="http://learnyouahaskell.com/">Learn Haskell</Link>
+			<Link desc="Haskell Programming Language" url="http://www.haskell.org/haskellwiki/Haskell">Haskell Wiki</Link>
+			<Link desc="high-performance dynamic programming language" url="http://julialang.org/">Julia</Link>
+			<Link desc="Go Programming Language" url="https://golang.org">GO</Link>
+			<Link desc="Go Tutorials" url="https://gobyexample.com/">Go by Example</Link>
+			<Link desc="TutorialsPoint" url="http://www.tutorialspoint.com/go/index.htm">Go Tutorial</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Gen Dev" fullTitle="General Development One" link="Gen_Dev_1">
+		<Bookmarks name="Reference">
+			<Link desc="DZone Reference Cards" url="https://dzone.com/refcardz">RefCardz</Link>
+			<Link desc="The Principles of Good Programming" url="http://www.artima.com/weblogs/viewpost.jsp?thread=331531">Good Programming</Link>
+			<Link desc="Reference" url="http://www.stylusstudio.com/docs/v62/d_xpath15.html#wp919260">XPath</Link>
+			<Link desc="Web Technology Tutorials" url="http://www.w3schools.com/">W3Schools</Link>
+			<Link desc="Credit Card Identifier format (Luhn algorithm)" url="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39698">ISO/IEC 7812</Link>
+			<Link desc="Base64 Data Encoding" url="https://tools.ietf.org/html/rfc4648">RFC 3548</Link>
+			<Link desc="Email Format" url="http://tools.ietf.org/html/rfc3696">RFC 3696</Link>
+			<Link desc="Reference" url="http://www.w3.org/MarkUp/Forms/2006/xforms-qr.html">xForms</Link>
+			<Link desc="Liteweight XML" url="http://rapple.sourceforge.net/index.html">Rapple</Link>
+			<Link desc="Logic-less templates" url="http://mustache.github.io/">Mustache</Link>
+			<Link desc="ISO Date Time" url="http://www.w3.org/TR/NOTE-datetime">ISO 8601</Link>
+			<Link desc="Regular Expression Library" url="http://regexlib.com">Reg Exp Lib</Link>
+			<Link desc="CSV Format" url="http://tools.ietf.org/html/rfc4180">RFC 4180</Link>
+			<Link desc="Development Technology Quick Reference" url="http://www.devguru.com/">DevGuru</Link>
+			<Link desc="Prime source for browser compatibility information" url="http://www.quirksmode.org/">Browser Quirks</Link>
+			<Link desc="IBM Developer Works" url="http://www.ibm.com/developerworks/">Developer Works</Link>
+			<Link desc="Electronic Handbook" url="http://www.dsdm.org/dig-deeper/book/dsdm-atern-handbook">DSDM</Link>
+			<Link desc="Content protection" url="http://creativecommons.org/">Creative Commons</Link>
+			<Link desc="The Tweleve-Factor App" url="http://12factor.net/">12-Factor</Link>
+			<Link desc="Web Reference" url="http://help.dottoro.com/llqwxqoe.php">Dottoro</Link>
+		</Bookmarks>
+		<Bookmarks name="Tutorials">
+			<Link desc="JavaScript Design Patterns" url="http://www.dofactory.com/javascript/design-patterns">doFactory</Link>
+			<Link desc="On-line technical training" url="https://app.pluralsight.com/library/">PluralSight</Link>
+			<Link desc="JavaScript Tutorial" url="http://javascript.info/">JS Info</Link>
+			<Link desc="Web development tutorials" url="http://www.w3resource.com/">W3Resource</Link>
+			<Link desc="XSD eBook" url="http://www.datypic.com/books/defxmlschema/">Definitive XML Schema</Link>
+			<Link desc="Python, Ruby, Scala etc." url="http://www.tutorialspoint.com/">Tutorials Point</Link>
+			<Link desc="Object-Orientated Design" url="http://www.oodesign.com/">OO Design</Link>
+			<Link desc="XML Design Patterns Index" url="http://www.xmlpatterns.com/patterns.shtml">XML Patterns</Link>
+			<Link desc="Open Web Application Security Project" url="https://www.owasp.org/index.php/Main_Page">OWASP</Link>
+			<Link desc="ChilKat" url="http://www.example-code.com/">Code Examples</Link>
+			<Link desc="Web Technology Tutorials" url="http://net.tutsplus.com/">NetTuts</Link>
+			<Link desc="Comprehensive Perl Archive Network" url="http://www.cpan.org/">CPAN</Link>
+			<Link desc="Coding Repository" url="http://www.codecademy.com/#!/exercises/0">Codecademy</Link>
+			<Link desc="Proven development paradigms" url="http://sourcemaking.com/design_patterns">Design Patterns</Link>
+			<Link desc="The Unified Modeling Language" url="http://www.uml-diagrams.org/">UML Diagrams</Link>
+			<Link desc="UML Modeling Tutorials" url="http://www.sparxsystems.com/resources/uml2_tutorial/">UML2 Tutorial</Link>
+			<Link desc="Free tool to learn and master PowerShell" url="http://www.idera.com/productssolutions/freetools/powershellplus">Idera PowerShell Plus</Link>
+			<Link desc="Premier website about Regular Expressions" url="http://www.regular-expressions.info">RegExp Primer</Link>
+			<Link desc="Blender Tutorials" url="http://cgcookie.com/blender/">CG Cookie</Link>
+			<Link desc="Video Tutorials" url="http://www.developphp.com">Developer PHP</Link>
+		</Bookmarks>
+		<Bookmarks name="MSDN">
+			<Link desc="Build and debug modern web and cloud applications" url="https://code.visualstudio.com/">VS Code</Link>
+			<Link desc="Fiddler Web Debugger Tool" url="https://msdn.microsoft.com/en-us/library/windows/desktop/ff966510(v=vs.85).aspx">Fiddler</Link>
+			<Link desc="WebMatrix is a free, lightweight, cloud-connected web development tool" url="http://www.microsoft.com/web/webmatrix/">Web Matrix</Link>
+			<Link desc="Build a powerful business app in moments" url="https://www.microsoft.com/en-us/projectsiena">Project Siena</Link>
+			<Link desc="IDE for creating modern applications for Android, iOS, Windows" url="https://www.visualstudio.com/products/visual-studio-community-vs">Visual Studio Community</Link>
+			<Link desc="Visual Studio Express extensible IDE" url="https://visualstudio.microsoft.com/vs/express/">Visual Studio Express</Link>
+			<Link desc="Components of script runtime" url="http://msdn.microsoft.com/en-us/library/bstcxhf7.aspx">Script Runtime</Link>
+			<Link desc="Windows Script Host Object Model" url="http://msdn.microsoft.com/en-us/library/a74hyyw0(v=VS.85).aspx">Win Script Host</Link>
+			<Link desc="Windows PowerShell Documents on MSDN" url="http://msdn.microsoft.com/en-us/library/dd835506(v=VS.85).aspx">Win PowerShell</Link>
+			<Link desc="JScript (ECMAScript3)" url="http://msdn.microsoft.com/en-us/library/hbxc2t98(VS.85).aspx">JScript</Link>
+			<Link desc="Windows SDK for Windows 7 and the .NET Framework 4" url="http://msdn.microsoft.com/en-us/library/aa468130.aspx">VBA Ref</Link>
+			<Link desc="MSDN Library Reference" url="http://msdn.microsoft.com/en-us/library/aa338032(VS.60).aspx">VB6 Ref</Link>
+			<Link desc="Visual Basic: CommonDialog Control" url="http://msdn.microsoft.com/en-us/library/aa259661(v=VS.60).aspx">CommonDialog</Link>
+			<Link desc="Sign in to your account Sign in Windows Internet Explorer Platform APIs" url="http://msdn.microsoft.com/en-us/library/ie/hh828809(v=vs.85).aspx">Win IE API</Link>
+			<Link desc="Microsoft XML Core Services (MSXML)" url="http://msdn.microsoft.com/en-us/library/ms763742(VS.85).aspx">MSXML</Link>
+			<Link desc="System.Xml Namespace" url="http://msdn.microsoft.com/en-gb/data/bb190600.aspx">Dev MSXML</Link>
+			<Link desc="MS HTML Applications" url="http://msdn.microsoft.com/en-gb/library/ms536471(vs.85).aspx">HTA</Link>
+			<Link desc="MS Developer Network" url="http://msdn.microsoft.com/en-gb/default.aspx">MSDN</Link>
+			<Link desc="W3C Document Object Model" url="http://msdn.microsoft.com/en-us/library/ms533043(VS.85).aspx">W3C DOM</Link>
+			<Link desc="XML Standards Reference" url="http://msdn.microsoft.com/en-us/library/ms256177(v=vs.110).aspx">XML Reference</Link>
+			<Link desc="Microsoft JavaScript" url="https://msdn.microsoft.com/en-us/library/d1et7k7c(v=vs.94).aspx">MS JS Reference</Link>
+			<Link desc="Microsoft Internet Explorer browser Virtual Machines" url="https://dev.windows.com/en-us/microsoft-edge/tools/vms/windows/">MS IE VMs</Link>
+		</Bookmarks>
+		<Bookmarks name="MS TechNet">
+			<Link desc="Microsoft Virtual Academy" url="https://mva.microsoft.com/">MVA</Link>
+			<Link desc="Expression Web 4 Free" url="https://www.microsoft.com/en-us/download/details.aspx?id=36179">Expression</Link>
+			<Link desc="Reactive Extensions for JavaScript" url="http://rxjs.codeplex.com/">RxJS on Codeplex</Link>
+			<Link desc="Free .Net CMS" url="http://orchard.codeplex.com/">Orchard Project</Link>
+			<Link desc="Windows PowerShell" url="http://technet.microsoft.com/en-us/scriptcenter/default">Scripting Center</Link>
+			<Link desc="Windows Sysinternals" url="http://technet.microsoft.com/en-us/sysinternals/bb842062.aspx">Sysinternals Suite</Link>
+			<Link desc="Windows Scripting" url="http://technet.microsoft.com/en-us/scriptcenter/dd742419.aspx">PowerShell</Link>
+			<Link desc="Windows Virtual PC VHD" url="http://www.microsoft.com/download/en/details.aspx?id=11575">MS VPC Images</Link>
+			<Link desc="E-Book Gallery for Microsoft Technologies" url="http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx">eBook Gallery</Link>
+			<Link desc="PHP on Windows" url="http://www.microsoft.com/web/platform/phponwindows.aspx">PHP on IIS</Link>
+		</Bookmarks>
+		<Bookmarks name="Resources">
+			<Link desc="Professional networking" url="https://www.linkedin.com/nhome/">LinkedIn</Link>
+			<Link desc="Article aggregator" url="https://medium.com/">Medium</Link>
+			<Link desc="Personal magazine" url="https://flipboard.com/">Flipboard</Link>
+			<Link desc="Discussion Forum" url="https://disqus.com/">Disqus</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Gen Dev" fullTitle="General Development Two" link="Gen_Dev_2">
+		<Bookmarks name="Java et al">
+			<Link desc="FluffyCat" url="http://www.fluffycat.com/Java/">Java Ref (FluffyCat)</Link>
+			<Link desc="Writing Doc Comments for JavaDoc" url="http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html">JavaDoc Ref</Link>
+			<Link desc="Reference Manual" url="https://developer.gnome.org/gtk3/stable/">GTK+ 3</Link>
+			<Link desc="The C++ Resources Network" url="http://www.cplusplus.com/">C++ Reference</Link>
+			<Link desc="Service Orientated Architecture" url="http://serviceorientation.com/">SOA</Link>
+			<Link desc="A programmable programming language" url="http://racket-lang.org/">Racket</Link>
+			<Link desc="Structure and Interpretation of Computer Programs" url="http://mitpress.mit.edu/sicp/full-text/book/book.html">FP E-Book</Link>
+			<Link desc="Interactive JavaScript FP training" url="http://jhusain.github.io/learnrx/">LearnRx FP-JS</Link>
+			<Link desc="Client Server publish/subscribe messaging transport protocol" url="http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html">MQTT</Link>
+			<Link desc="Python bindings for Digia&apos;s Qt application framework" url="http://www.riverbankcomputing.co.uk/software/pyqt/intro">PyQt</Link>
+			<Link desc="Qt Creator is the supporting Qt IDE" url="http://qt-project.org/">Qt Project</Link>
+			<Link desc="Cross-platform development with Qt" url="https://www.qt.io/">Qt Platform</Link>
+			<Link desc="Qt IDE" url="https://www.qt.io/ide/">Qt Creator</Link>
+		</Bookmarks>
+		<Bookmarks name="Rust and WASM">
+			<Link desc="WASM Community Site" url="https://wasmrocks.com/">WASM Rocks</Link>
+			<Link desc="Web Assembly Official Site" url="https://webassembly.org/">WebAssembly Official Site</Link>
+			<Link desc="WASM-based game" url="https://www.funkykarts.rocks/demo.html">Funky Karts</Link>
+			<Link desc="Web Assembly Studio" url="https://webassembly.studio/">WASM Studio</Link>
+			<Link desc="WASM Sandbox" url="https://ballercat.github.io/walt">Walt Explorer</Link>
+			<Link desc="Rust Programming Language" url="https://www.rust-lang.org/">Rust</Link>
+			<Link desc="Online Rust environment" url="https://play.rust-lang.org/">Rust Playground</Link>
+			<Link desc="Strict subset of TypeScript to WebAssembly compiler" url="https://docs.assemblyscript.org/">AssemblyScript</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Web Dev" fullTitle="Web Development One" link="Web_Dev_1">
+		<Bookmarks name="Reference">
+			<Link desc="A query language for your API" url="http://graphql.org/">GraphQL</Link>
+			<Link desc="Building blocks for the web" url="https://www.webcomponents.org/">Web Components</Link>
+			<Link desc="A free visual guide to CSS" url="http://cssreference.io/">CSS reference.io/</Link>
+			<Link desc="CSS3-SCSS Playpen" url="http://www.createcss3.com/">Create CSS3</Link>
+			<Link desc="Simple CSS Media Queries" url="http://simplecss.eu/">SimpleCSS</Link>
+			<Link desc="Form factor reference" url="http://screensiz.es">Screen Sizes</Link>
+			<Link desc="Adobe Create" url="https://color.adobe.com/create/color-wheel/">Color-Wheel</Link>
+			<Link desc="Scalable and Modular Architecture for CSS" url="https://smacss.com/">SMACSS</Link>
+			<Link desc="Blocks__Elements- -Modifiers" url="http://getbem.com/introduction/">B__E--M</Link>
+			<Link desc="Inverted-Triangle CSS Wizardry" url="http://itcss.io/">ITCSS</Link>
+			<Link desc="The latest in Sass and Compass" url="http://thesassway.com/">The Sass Way</Link>
+			<Link desc="Billy Hollis" url="http://www.billyhollis.com/designprinciplelist/">Design Principles</Link>
+			<Link desc="Stu Nicholls" url="http://www.cssplay.co.uk/index">CSSplay</Link>
+			<Link desc="The Beauty of CSS Design" url="http://www.csszengarden.com/">CSS Zen Garden</Link>
+			<Link desc="Demos" url="http://codepen.io/">CodePen</Link>
+			<Link desc="Articles on advanced CSS3" url="http://css-tricks.com/">CSS tricks</Link>
+			<Link desc="SASS Environment" url="http://sassmeister.com/">SASS Meister</Link>
+			<Link desc="ThoughtWorks" url="http://www.thoughtworks.com/radar/#/">Tech radar</Link>
+			<Link desc="CSS reference" url="https://tympanus.net/codrops/css_reference/">CoDrops</Link>
+			<Link desc="Web Platform features to build my app" url="https://whatwebcando.today/">What Web Can Do Today</Link>
+			<Link desc="Atomic Design" url="https://patternlab.io/">PatternLab</Link>
+		</Bookmarks>
+		<Bookmarks name="Resources">
+			<Link desc="BEM Cheatsheet" url="https://9elements.com/bem-cheat-sheet/">B-E-M</Link>
+			<Link desc="Animated typographic cheat sheet" url="https://www.supremo.co.uk/typeterms/">TypeTerms</Link>
+			<Link desc="Resource provided by The Paciello Group" url="http://www.paciellogroup.com/resources">Accessibility Tools</Link>
+			<Link desc="Cross-browser animations" url="http://daneden.me/animate/">Animation.css</Link>
+			<Link desc="A flexible yet lightweight JavaScript animation library" url="http://animejs.com/">anime.js</Link>
+			<Link desc="Abstract Syntax Tree explorer" url="https://astexplorer.net/">AST Explorer</Link>
+			<Link desc="Simple viewer for D3 code examples hosted on GitHub Gist" url="http://bl.ocks.org/">bl.ocks.org</Link>
+			<Link desc="Mobile-First Framework" url="http://getbootstrap.com">Bootstrap</Link>
+			<Link desc="JavaScript Parser" url="https://cherow.github.io/cherow/">Cherow</Link>
+			<Link desc="The best web text editor for everyone" url="http://ckeditor.com/">CKEditor</Link>
+			<Link desc="Clipboard Library" url="https://clipboardjs.com/">ClipboardJS</Link>
+			<Link desc="Versatile text editor implemented in JavaScript" url="https://codemirror.net/">Code Mirror</Link>
+			<Link desc="Programming Quiz" url="http://coderbyte.com/">Coderbyte</Link>
+			<Link desc="PHP Resources" url="http://codular.com/">Codular</Link>
+			<Link desc="Colour Scheme Generator" url="https://coolors.co/">Coolors</Link>
+			<Link desc="CSS framework" url="http://www.blueprintcss.org/">CSS BluePrint</Link>
+			<Link desc="On-line CSS Minification" url="http://www.csscompressor.com/">CSS Compressor</Link>
+			<Link desc="Code Snippets &amp; UI Kits for Web Developers" url="http://www.cssflow.com/">CSSFlow</Link>
+			<Link desc="Colour Palette" url="https://culrs.com">Culrs</Link>
+			<Link desc="Image to Data-URL tool" url="http://t.larskl.de/dataurl">Data-URL generator</Link>
+		</Bookmarks>
+		<Bookmarks name="Server-Side JS">
+			<Link desc="Cross-platform desktop apps with web technologies" url="http://electron.atom.io/">Electron</Link>
+			<Link desc="Automated Electron reloader" url="https://www.npmjs.com/package/electron-reload">electron-reload</Link>
+			<Link desc="Electron deployment pacakge" url="https://www.npmjs.com/package/electron-packager">electron-packager</Link>
+			<Link desc="Electron development pacakge" url="https://www.npmjs.com/package/electron-prebuilt">electron-prebuilt</Link>
+			<Link desc="Electron precompilation" url="https://www.npmjs.com/package/electron-compile">electron-compile</Link>
+			<Link desc="Node.js-based JavaScript App Platform" url="https://www.meteor.com/">Meteor.JS</Link>
+			<Link desc="Open-Source Full-Stack Solution For MEAN Applications" url="http://meanjs.org/">MEAN.js</Link>
+			<Link desc="Elegant mongodb object modeling for node.js" url="http://mongoosejs.com/">Mongoose</Link>
+			<Link desc="Enables real-time bidirectional event-based communication for Node JS" url="http://socket.io/">Socket IO</Link>
+			<Link desc="Fullstack JavaScript framework" url="http://mean.io/#!/">MEAN IO</Link>
+			<Link desc="Web application framework for node" url="http://expressjs.com/">Express.js</Link>
+			<Link desc="Node Template Engine" url="http://jade-lang.com/">Jade</Link>
+			<Link desc="Promise-based ORM for Node.js" url="http://docs.sequelizejs.com/en/latest/">Sequelize js</Link>
+			<Link desc="An open source, modern and powerful wiki app built on Node.js" url="https://wiki.js.org/">Wiki</Link>
+		</Bookmarks>
+		<Bookmarks name="Support">
+			<Link desc="HTML5 CSS3 JS SVG Feature Support" url="http://caniuse.com/">Can I Use</Link>
+			<Link desc="HTML5 &amp; CSS3 Browser Support" url="http://html5readiness.com/">Browser Readiness</Link>
+			<Link desc="HTML5 &amp; CSS3 Support" url="http://www.findmebyip.com/litmus/">Litmus</Link>
+			<Link desc="HTML5 Rocks" url="http://www.html5rocks.com/en/tutorials/?page=1">HTML5 Tutorials</Link>
+			<Link desc="HTML5 Canvas Demos" url="http://www.canvasdemos.com/">HTML5 Canvas</Link>
+			<Link desc="HTML5 Articles" url="http://www.html5rocks.com/en/">HTML5 Rocks</Link>
+			<Link desc="Helping you implement HTML5 today" url="http://html5doctor.com/">HTML5 Doctor</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="Simplify the process of finding and generating common icons" url="https://iconsvg.xyz/">ICON SVG</Link>
+			<Link desc="On-line UI design tool" url="http://frontendcreator.com/app/">FrontEnd Creator</Link>
+			<Link desc="Portable console emulator for Windows" url="http://cmder.net/">Cmder</Link>
+			<Link desc="the essential toolkit for web-developers" url="http://emmet.io/">Emmet</Link>
+			<Link desc="CSS Linter" url="http://stylelint.io/">Style Lint</Link>
+			<Link desc="A Free CSS Authoring Tool" url="https://www.hostm.com/css">Simple CSS</Link>
+			<Link desc="Server-side CSS pre-processor" url="http://postcss.org/">PostCSS</Link>
+			<Link desc="Style Guide Builder" url="http://trulia.github.io/hologram/">Hologram</Link>
+			<Link desc="Lightweight pattern library for any web project" url="http://astrum.nodividestudio.com/">Astrum</Link>
+			<Link desc="Peter Collingridge" url="http://petercollingridge.appspot.com/svg-editor">svg-editor</Link>
+			<Link desc="Browser synchronisation tool" url="http://www.browsersync.io/">BrowserSync</Link>
+			<Link desc="Microsoft Dev tools essential for building the modern web." url="https://www.modern.ie/en-us">modern.IE</Link>
+			<Link desc="FireFox Developer Edition" url="https://www.mozilla.org/en-US/firefox/developer">FireFox Dev</Link>
+			<Link desc="A RESTful API server framework that is written in PHP" url="http://luracast.com/products/restler">Restler</Link>
+			<Link desc="Custom Elements Polylib" url="http://www.x-tags.org/">X-Tags</Link>
+			<Link desc="Create custom HTML elements" url="http://www.polymer-project.org/">Polymer</Link>
+			<Link desc="A practical collection of everyday Web Components" url="http://bosonic.github.io/">Bosonic</Link>
+			<Link desc="A simple and lightweight mixin library for Sass" url="http://bourbon.io/">Bourbon.io</Link>
+			<Link desc="JavaScript Documentation Toolkit" url="https://code.google.com/p/jsdoc-toolkit/">jsdoc-toolkit</Link>
+			<Link desc="CSS Layout Generator" url="http://csscreator.com/tools/layout">CSS Creator</Link>
+			<Link desc="CSS Properties Tool" url="http://csscomb.com/">CSS Comb</Link>
+			<Link desc="SASS Processor" url="http://scout-app.io/">Scout-App</Link>
+			<Link desc="Expressive, dynamic, robust CSS" url="http://learnboost.github.io/stylus/">Stylus</Link>
+			<Link desc="Compass is an open-source CSS Authoring Framework" url="http://compass-style.org/">Compass CSS</Link>
+			<Link desc="Syntactically Awesome Stylesheets" url="http://sass-lang.com/">SASS</Link>
+			<Link desc="Graphical Calculator" url="https://www.desmos.com/calculator">Graphical Calculator</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Web Dev" fullTitle="Web Development Two" link="Web_Dev_2">
+		<Bookmarks name="Node JS">
+			<Link desc="Node Version Manager for Windows" url="https://github.com/coreybutler/nvm-windows/releases">NVM-Win</Link>
+			<Link desc="Node Monitor" url="https://nodemon.io/">NodeMon</Link>
+			<Link desc="Simple zero-configuration command-line http server" url="https://www.npmjs.com/package/http-server">http-server</Link>
+			<Link desc="Simple development http server with live reload capability" url="https://runkit.com/npm/live-server">Live-Server</Link>
+			<Link desc="Package Manager" url="https://yarnpkg.com/">Yarn</Link>
+			<Link desc="next generation web framework for node.js" url="http://koajs.com/">Koa JS</Link>
+			<Link desc="OS OpenSpace application programming interface (API)" url="http://www.ordnancesurvey.co.uk/business-and-government/products/os-openspace/api/index.html?utm_source=appsworld%26utm_medium=printed%20ad%26utm_campaign=openspace">OS OpenSpace API</Link>
+			<Link desc="Node WebKit" url="http://nwjs.io/">NW.JS</Link>
+			<Link desc="Node.js Test Runner" url="http://karma-runner.github.io/">Karma</Link>
+			<Link desc="A library for quickly providing a data api" url="http://benaugarten.com/node-restful/">Node-RESTful</Link>
+			<Link desc="Build correct REST web services for NodeJS" url="http://mcavage.me/node-restify/">node-restify</Link>
+			<Link desc="Home Site" url="http://nodejs.org/">Node.JS</Link>
+			<Link desc="Guide" url="http://nodeguide.com/">Node.JS Guide</Link>
+			<Link desc="Node Packaged Modules" url="https://npmjs.org/">NPM</Link>
+			<Link desc="Node Verson Manager" url="https://npmjs.org/package/nvm">NVM</Link>
+		</Bookmarks>
+		<Bookmarks name="Reference">
+			<Link desc="Web Content Accessibility Guidelines" url="http://www.w3.org/TR/WCAG20/">WCAG 2.0</Link>
+			<Link desc="Guidance on Mobile, Accessibility, Internationalization, and Typography" url="http://www.w3.org/2009/cheatsheet">W3C Cheatsheet</Link>
+			<Link desc="Web Accessibility Initiative - Accessible Rich Internet Applications" url="https://www.w3.org/TR/wai-aria-1.1/">WAI ARIA 1.1</Link>
+			<Link desc="JavaScript AST visualizer" url="http://resources.jointjs.com/demos/javascript-ast">Rappid</Link>
+			<Link desc="Online WSG" url="http://webstyleguide.com/wsg3/index.html">Web Style Guide</Link>
+			<Link desc="Learn CSS Layout" url="http://learnlayout.com/">CSS Layout</Link>
+			<Link desc="Web Component Best-Practices" url="http://webcomponents.org/">Web Components</Link>
+			<Link desc="Web Component Gallery" url="http://customelements.io/">Custom Elements</Link>
+			<Link desc="A folding grid for responsive design" url="http://goldengridsystem.com/">Golden Grid System</Link>
+			<Link desc="Layout grid in web pages" url="http://hashgrid.com/">#grid</Link>
+			<Link desc="Database of HTTP status codes" url="http://httpstatus.es/">HTTP Statuses</Link>
+			<Link desc="On-line O&apos;Reilly Media" url="http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons">O&apos;Reilly Commons</Link>
+			<Link desc="Interactive Data Visualization for the Web" url="http://chimera.labs.oreilly.com/books/1230000000345/index.html">On-line D3JS book</Link>
+			<Link desc="Git Command Explorer" url="https://gitexplorer.com/">Git Explorer</Link>
+		</Bookmarks>
+		<Bookmarks name="Resources">
+			<Link desc="CSS Normalisation" url="http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/">Eric Meyer Reset</Link>
+			<Link desc="Favicon Creator" url="http://www.favicon.cc/">FavIcon</Link>
+			<Link desc="Front-end Framework" url="http://foundation.zurb.com/">Foundation CSS</Link>
+			<Link desc="Easy frame sharing" url="http://framebox.org/">Frame Box</Link>
+			<Link desc="Resources for learning D3.js" url="http://getgini.com/lists/80-resources-for-learning-d3-js">Gini</Link>
+			<Link desc="Library of precisely prepared monochromatic icons and symbols" url="http://glyphicons.com/">GlyphIcons</Link>
+			<Link desc="PANTONE to RGB mapping" url="http://goffgrafix.com/pantone-rgb-100.php">Goff Grafix</Link>
+			<Link desc="a multi-screen layout manager for webapps" url="https://golden-layout.com/">Goldenlayout</Link>
+			<Link desc="The web&apos;s most popular front-end template" url="http://html5boilerplate.com/">HTML5 Boilerplate</Link>
+			<Link desc="CSS Normalisation" url="http://html5doctor.com/html-5-reset-stylesheet/">HTML5 Doctor Reset</Link>
+			<Link desc="HTML5 Reset" url="http://html5reset.org/">HTML5 Templates</Link>
+			<Link desc="Pure CSS Icons" url="http://saeedalipoor.github.io/icono/">ICONO</Link>
+			<Link desc="On-line JavaScript Compressor" url="http://jscompress.com/">JS Compress</Link>
+			<Link desc="A lightweight, mobile-first boilerplate for front-end web developers" url="http://cferdinandi.github.io/kraken/">Kracken</Link>
+			<Link desc="PHP Framework For Web Artisans" url="http://laravel.com/">Laravel</Link>
+			<Link desc="Create your frontend code quickly with our simple tools." url="https://www.layoutit.com/grid">Layoutit! (grid)</Link>
+			<Link desc="Tiny vanilla JavaScript that adds search, etc. to HTML" url="http://www.listjs.com/">List.js</Link>
+			<Link desc="On-line CSS Optimiser" url="http://www.minifycss.com/">Minify CSS</Link>
+		</Bookmarks>
+		<Bookmarks name="Server-Side JS">
+			<Link desc="Web application framework for node.js" url="http://www.partialjs.com/">Partial JS</Link>
+			<Link desc="Simple, unobtrusive authentication for Node.js" url="http://passportjs.org/">Passport JS</Link>
+			<Link desc="Sails is the most popular MVC framework for Node.js" url="http://sailsjs.org/">Sails.Js</Link>
+			<Link desc="Mozilla JavaScript engine" url="https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino">MZ Rhino</Link>
+			<Link desc="PhantomJS is a headless WebKit" url="http://phantomjs.org/">Phantom JS</Link>
+			<Link desc="JavaScript compiling language" url="http://coffeescript.org/">CoffeeScript</Link>
+			<Link desc="OpenJDK, JS for Java" url="http://openjdk.java.net/projects/nashorn/">Nashorn</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="The online code editor for ..." url="https://codesandbox.io/u/TracyGJG">CodeSandbox</Link>
+			<Link desc="Node.js CMS and web app platform" url="https://keystonejs.com/">Keystone</Link>
+			<Link desc="Validator" url="http://jigsaw.w3.org/css-validator/">W3C CSS</Link>
+			<Link desc="Web App Module bundler" url="https://webpack.github.io/">WebPack</Link>
+			<Link desc="ES2015 JavaScript compiler" url="https://babeljs.io/">Babel JS</Link>
+			<Link desc="SVG processing tool" url="http://www.grumpicon.com/">Grump Icon</Link>
+			<Link desc="Convert Picture to SVG" url="http://picsvg.com/">PicSvg</Link>
+			<Link desc="CSS optimizer" url="http://css.github.io/csso/">CSSO</Link>
+			<Link desc="Windows-based Machine Package Manager" url="https://chocolatey.org/">Chocolatey</Link>
+			<Link desc="JavaScript Code Styler" url="http://jscs.info/">JSCS</Link>
+			<Link desc="Sass/Compass version of Normalize.css" url="http://necolas.github.io/normalize.css/">Normalize SCSS</Link>
+			<Link desc="Python-to-JavaScript compiler" url="http://pyjs.org/">Pyjamas</Link>
+			<Link desc="An extraordinarily optimizable, low-level subset of JavaScript" url="http://asmjs.org/">ASM.JS</Link>
+			<Link desc="Combine background images into a CSS sprite" url="http://spriteme.org/">SpriteMe</Link>
+			<Link desc="Introducing" url="http://philipwalton.com/articles/introducing-html-inspector/">HTML Inspector</Link>
+			<Link desc="Source code editor for Web Designers" url="http://brackets.io/">Brackets</Link>
+			<Link desc="Scalable Vector Graphics for Web Browsers using Flash" url="https://code.google.com/p/svgweb/">SVGWeb</Link>
+			<Link desc="IE6 SVG Viewer" url="http://www.iegallery.com/en-us/Addons/Details/444">Adobe SVG Viewer</Link>
+			<Link desc="World class hybrid apps" url="https://crosswalk-project.org/">Crosswalk</Link>
+			<Link desc="Mobile multiple-platform apps with HTML, CSS &amp; JS" url="https://cordova.apache.org/">Cordova</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="Web Dev" fullTitle="Web Development Three" link="Web_Dev_3">
+		<Bookmarks name="Reference">
+			<Link desc="The Little Book on CoffeeScript" url="http://arcturo.github.io/library/coffeescript/">CoffeeScript eBook</Link>
+			<Link desc="Free eBook and Quick Reference" url="http://autotelicum.github.io/Smooth-CoffeeScript/">Smooth CoffeeScript</Link>
+			<Link desc="Easy CSS3 Generator" url="http://css3gen.com/">CSS3 Gen</Link>
+			<Link desc="DHTML Style Guide Working Group" url="http://access.aol.com/dhtml-style-guide-working-group/">DSGWG</Link>
+			<Link desc="Open-Source Web Dev" url="http://www.oswd.org/">OSWD</Link>
+			<Link desc="Cross-Origin Resource Sharing" url="http://enable-cors.org/index.html">Enable CORS</Link>
+		</Bookmarks>
+		<Bookmarks name="Resources">
+			<Link desc="HTML5-ready alternative to CSS resets" url="http://necolas.github.io/normalize.css/">Noralize.css</Link>
+			<Link desc="Re-usable charts for d3.js" url="https://nvd3-community.github.io/nvd3/">NVD3</Link>
+			<Link desc="WYSIWYG text editor for web" url="https://jaredreich.com/pell">PELL</Link>
+			<Link desc="Small and responsive CSS modules" url="http://purecss.io/">Pure.css</Link>
+			<Link desc="Client-side WYSIWYG Editor" url="http://quilljs.com/">QuillJS</Link>
+			<Link desc="A pure-JavaScript CSS selector engine" url="http://sizzlejs.com/">Sizzle.JS</Link>
+			<Link desc="Programmer FAQs" url="http://stackoverflow.com/">StackOverflow</Link>
+			<Link desc="Style extraction tool" url="http://stylifyme.com/">Stylify Me</Link>
+			<Link desc="JavaScript Resources" url="http://superherojs.com/">Superhero JS</Link>
+			<Link desc="Your layout | Our math" url="http://susy.oddbird.net">Susy grid</Link>
+			<Link desc="Client-side WYSIWYG Editor" url="http://www.tinymce.com/index.php">TinyMCE</Link>
+			<Link desc="Visualization Grammar (GitHub)" url="http://trifacta.github.io/vega/">VEGA</Link>
+			<Link desc="JavaScript UI Framework for desktop and mobile browsers" url="http://webix.com/">Webix</Link>
+			<Link desc="Wireframing tool" url="https://wireframe.cc/">Wireframe CC</Link>
+		</Bookmarks>
+		<Bookmarks name="People">
+			<Link desc="Cleaner Coder blog" url="https://blog.cleancoder.com/">Robert (Uncle Bob) Martin</Link>
+			<Link desc="Blog site" url="https://davidwalsh.name/">David Walsh</Link>
+			<Link desc="Speaker on the design of enterprise software" url="http://martinfowler.com/">Martin Fowler</Link>
+			<Link desc="Stubbornella Site" url="http://www.stubbornella.org/content/">Nicole Sullivan</Link>
+			<Link desc="Life at the bleeding edge (of web standards)" url="http://lea.verou.me/">Lea Verou</Link>
+			<Link desc="Articles For Front-end Developers" url="http://addyosmani.com/blog/">Addy Osmani</Link>
+			<Link desc="On Web Development and Open-Source" url="http://philipwalton.com/">Philip Walton</Link>
+			<Link desc="Web designer &amp; developer" url="http://ethanmarcotte.com/">Ethan Marcotte</Link>
+			<Link desc="Performance without the event loop" url="http://dave.cheney.net/">Dave Cheney</Link>
+			<Link desc="Web Tech Tutorials" url="http://tutorials.jenkov.com/">Jakob Jenkov</Link>
+			<Link desc="CSS Developer" url="https://tympanus.net/codrops/author/sarasoueidan/">Sara Soueidan</Link>
+			<Link desc="JS Author and Speaker" url="https://ericelliottjs.com/">Eric Elliott</Link>
+			<Link desc="ECMA Script 5" url="http://davidflanagan.com/Talks/es5/slides.html">David Flanagan</Link>
+			<Link desc="JavaScript Design Patterns" url="https://carldanley.com/javascript-design-patterns/">Carl Danley</Link>
+			<Link desc="JavaScript JavaScript..." url="http://javascriptweblog.wordpress.com/">Angus Croll</Link>
+			<Link desc="Articles on JavaScript, JSON, CSS, usability, design." url="http://www.thomasfrank.se/">Thomas Frank</Link>
+			<Link desc="2ality - JavaScript, web development and mobile computing" url="http://www.2ality.com/">Axel Rauschmayer</Link>
+			<Link desc="NCZOnline" url="http://www.nczonline.net/">Nicholas C. Zakas</Link>
+			<Link desc="3D Web Graphics" url="http://www.maissan.net/">Chris Maissan</Link>
+			<Link desc="Wrrld Wide Web" url="http://crockford.com/">Douglas Crockford</Link>
+			<Link desc="Learning Advanced JavaScript" url="http://ejohn.org/apps/learn/">John Resig</Link>
+			<Link desc="Stratos.js - Simplifying Object manipulation JS Library" url="http://toddmotto.com/stratos-js-simplifying-object-manipulation/">Todd Motto</Link>
+			<Link desc="Promises ... In Wicked Detail" url="http://www.mattgreer.org/">Matt Greer</Link>
+			<Link desc="IE7 JS Lib" url="http://dean.edwards.name/ie7/">Dean Edwards</Link>
+			<Link desc="XSLT.js" url="http://johannburkard.de/software/xsltjs/">Johann Burkard</Link>
+			<Link desc="Evangelist on the loose" url="http://www.johnpapa.net/">John Papa</Link>
+			<Link desc="Sarah Drasner Design" url="https://sarahdrasnerdesign.com/">Sarah Drasner</Link>
+			<Link desc="Open Web technologies" url="https://me.getify.com/">Kyle Simpson</Link>
+		</Bookmarks>
+		<Bookmarks name="Magazines">
+			<Link desc="StrongLoop Blog site" url="https://strongloop.com/strongblog/">Strong Loop</Link>
+			<Link desc="Tech and Design Tips" url="https://www.hongkiat.com/blog/">hongkiat</Link>
+			<Link desc="24 Ways to impress your friends" url="http://24ways.org/">24 WAYS</Link>
+			<Link desc="Smashing magazine" url="http://www.smashingmagazine.com/">Smashing</Link>
+			<Link desc="For people who make websites" url="http://alistapart.com/">A List Apart</Link>
+			<Link desc="Digital Web Magazine" url="http://www.digital-web.com/">DWM - Closed</Link>
+			<Link desc="David Walsh Blog" url="https://davidwalsh.name/topics">DWB=</Link>
+			<Link desc="Tips, Tricks, and Techniques on using Cascading Style Sheets" url="https://css-tricks.com/">CSS-Tricks</Link>
+			<Link desc="code. eat. sleep. loop" url="https://scotch.io/">Scotch IO</Link>
+			<Link desc="Medium" url="https://hackernoon.com/">Hacker Noon</Link>
+			<Link desc="Medium" url="https://medium.freecodecamp.org/">Free Code Camp</Link>
+			<Link desc="Web design and development blog" url="https://tympanus.net/codrops/">CoDrops</Link>
+			<Link desc="Dev.To" url="https://dev.to/">DEV</Link>
+		</Bookmarks>
+		<Bookmarks name="Tools">
+			<Link desc="RESTful service GUI" url="https://www.getpostman.com/">Postman</Link>
+			<Link desc="The ultimate CSS tools for web designers" url="http://www.cssmatic.com/">CSS matic</Link>
+			<Link desc="A visual tool for wiring the Internet of Things" url="http://nodered.org/">Node-RED</Link>
+			<Link desc="Intelligent JavaScript tooling" url="http://ternjs.net/">Tern.JS</Link>
+			<Link desc="Free HTML Editor" url="http://www.coffeecup.com/free-editor/">CoffeeCup</Link>
+			<Link desc="The last build tool you&apos;ll ever need" url="https://www.npmjs.com/package/gobble">gobble</Link>
+			<Link desc="A tiny JavaScript expression parser" url="http://jsep.from.so/">JSEP</Link>
+			<Link desc="IOS Design Kit" url="https://www.invisionapp.com/tethr">Tethr</Link>
+			<Link desc="Tool for creating charts for the web" url="https://datawrapper.de/">Datawrapper</Link>
+			<Link desc="Colour Contrast Check Tool with WCAG2 formula differentiates" url="http://snook.ca/technical/colour_contrast/colour.html">Snook</Link>
+			<Link desc="CoffeeScript Code Quality Analysis (online)" url="http://www.coffeelint.org/">CoffeeLint</Link>
+			<Link desc="Free Online Tools For Developers" url="http://www.freeformatter.com/">FreeFormatter</Link>
+			<Link desc="CSS the way it was imagined" url="http://www.myth.io/">Myth</Link>
+			<Link desc="Dynamic CSS" url="http://lesscss.org/">Less.css</Link>
+			<Link desc="LLVM-to-JavaScript compiler" url="http://kripken.github.io/emscripten-site/">Emscripten</Link>
+			<Link desc="A flexible and extensible cross-compiler toolchain" url="http://xmlvm.org/overview/">XMLVM</Link>
+			<Link desc="Keynote Mobile Internet Testing Environment" url="http://mite.keynote.com/">MITE</Link>
+			<Link desc="Cross-Browser Debugger" url="http://remotedebug.org/">RemoteDebug</Link>
+			<Link desc="Running Program source IDE" url="http://www.chris-granger.com/lighttable/">Light Table</Link>
+			<Link desc="UI Components for Modern Web Apps" url="http://mozbrick.github.io/">Brick</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="JavaScript" fullTitle="JavaScript One" link="JS_1">
+		<Bookmarks name="ECMA &amp; JSON">
+			<Link desc="XML and JSON on-line tools" url="https://jsonformatter.org/">JSON Formatter</Link>
+			<Link desc="JSON Validator" url="https://jsonlint.com/">JSON Lint</Link>
+			<Link desc="JavaScript parser generator" url="https://zaa.ch/jison/">JISON</Link>
+			<Link desc="The Windows Library for JavaScript" url="https://dev.windows.com/en-us/develop/winjs">WinJS</Link>
+			<Link desc="ECMAScript 6 - New Features: Overview &amp; Comparison" url="http://es6-features.org">ES6 New Features</Link>
+			<Link desc="JSON Schema generation tool" url="http://jsonschema.net">JSON Schema tool</Link>
+			<Link desc="JSON Schema specification" url="http://json-schema.org/">JSON Schema spec</Link>
+			<Link desc="ECMAScript parsing infrastructure for multipurpose analysis" url="http://esprima.org/">ESprima</Link>
+			<Link desc="ECMAScript for XML (E4X) Specification" url="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-357.pdf">ECMA-357</Link>
+			<Link desc="ECMAScript Language Specification" url="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf">ECMA-262</Link>
+			<Link desc="ECMAScript Components Specification" url="http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-290.PDF">ECMA-290</Link>
+			<Link desc="ECMAScript 3 Compact Profile" url="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-327.pdf">ECMA-327</Link>
+			<Link desc="ECMAScript" url="http://www.jibbering.com/faq/">Jibbering FAQ</Link>
+			<Link desc="A lightweight and flexible command-line JSON processor" url="https://stedolan.github.io/jq/">jq</Link>
+			<Link desc="JavaScript Object Notation (JSON) by Douglas Crockford" url="http://www.json.org/">JSON</Link>
+			<Link desc="JSON Formatter &amp; Validator" url="https://jsonformatter.curiousconcept.com/">JSON Formatter</Link>
+			<Link desc="EJS cleans the HTML out of your JavaScript" url="http://embeddedjs.com/">EJS</Link>
+		</Bookmarks>
+		<Bookmarks name="Reference">
+			<Link desc="jQuery Enlightenment e-Book" url="http://jqueryenlightenment.com/">jQuery Enlightenment</Link>
+			<Link desc="Learning JavaScript Design Patterns e-Book" url="http://addyosmani.com/resources/essentialjsdesignpatterns/book/">JS Design Patterns</Link>
+			<Link desc="CometD Bayeux Ajax Push" url="http://cometd.org/">CometD</Link>
+			<Link desc="Open-standard for sound, interoperable JavaScript promises" url="http://promises-aplus.github.io/promises-spec/">Promises/A+</Link>
+			<Link desc="ECMAScript Compatibility Table" url="https://kangax.github.io/compat-table/es6/">Kangax</Link>
+			<Link desc="JavaScript by Douglas Crockford" url="http://javascript.crockford.com/">Douglas&#39;s JavaScript</Link>
+			<Link desc="Browser-based CSS training game" url="http://flukeout.github.io/">CSS Diner</Link>
+			<Link desc="Hasura open-source training" url="https://learn.hasura.io/">GraphQL Tutorials</Link>
+			<Link desc="Open JavaScript Foundation" url="https://openjsf.org/">OpenJS</Link>
+		</Bookmarks>
+		<Bookmarks name="Facilities">
+			<Link desc="JavaScript Compiler/Optimiser" url="https://developers.google.com/closure/">Closure</Link>
+			<Link desc="Deep Tracing of Internet Explorer 8" url="http://ejohn.org/blog/deep-tracing-of-internet-explorer/">JS Deep Trace</Link>
+			<Link desc="Tool for making JavaScript download and run faster" url="http://code.google.com/closure/compiler/">JS Compiler</Link>
+			<Link desc="JavaScript Code Quality (softly softly)" url="http://www.jshint.com/">JS Hint</Link>
+			<Link desc="JavaScript performance playground" url="http://jsperf.com/">JS Perf</Link>
+			<Link desc="JavaScript Lab (Regex Generator)" url="http://www.jslab.dk/tools.regex.php">JS RegEx Generator</Link>
+			<Link desc="JavaScript Object Playground" url="http://www.objectplayground.com/">Object Playground</Link>
+			<Link desc="Google JavaScript Style Guide" url="https://google.github.io/styleguide/javascriptguide.xml">JS Coding Standards</Link>
+			<Link desc="application for generating documentation from commented JavaScript" url="http://code.google.com/p/jsdoc-toolkit/">JS Doc (jsdoc-toolkit)</Link>
+			<Link desc="Code coverage for JavaScript" url="http://siliconforks.com/jscoverage/">JS Coverage</Link>
+			<Link desc="JavaScript tester" url="http://yeti.cx/">Yeti</Link>
+			<Link desc="JavaScript Logger by G Scott Olson" url="https://code.google.com/p/blackbirdjs/">Blackbird</Link>
+			<Link desc="Wed Dev Env" url="http://jsfiddle.net/">JS Fiddle</Link>
+			<Link desc="JavaScript Minifier by Douglas Crockford" url="http://javascript.crockford.com/jsmin.html">JSMin</Link>
+			<Link desc="JavaScript Code Checker by Douglas Crockford" url="http://www.javascriptlint.com/">JSLint</Link>
+			<Link desc="JavaScript test tool by Douglas Crockford" url="http://jscheck.org/">JSCheck</Link>
+			<Link desc="JS HTML &amp; JSON prettyfier" url="http://jsbeautifier.org/">js-beautify</Link>
+			<Link desc="Useful Online Tools for Developers" url="https://www.webtoolkitonline.com">Web Toolkit Online</Link>
+		</Bookmarks>
+		<Bookmarks name="Frameworks">
+			<Link desc="Vanilla JavaScript libraries" url="https://plainjs.com/">PlainJS</Link>
+			<Link desc="Isomorphic web application framework" url="https://rill.site/">Rill.JS</Link>
+			<Link desc="Parallel Computing with Javascript" url="https://parallel.js.org/">Parallel.js</Link>
+			<Link desc="Templating Framework" url="http://akdubya.github.io/dustjs/">{dust}</Link>
+			<Link desc="Templating Framework" url="http://handlebarsjs.com/">handlebars</Link>
+			<Link desc="Create mobile apps using standardized web APIs" url="http://phonegap.com/">PhoneGap</Link>
+			<Link desc="The ultimate lightweight framework" url="http://vanilla-js.com/">Vanilla JS</Link>
+			<Link desc="JavaScript SVG library for the modern web" url="http://snapsvg.io/">Snap.svg</Link>
+			<Link desc="Next generation JavaScript client framework." url="http://aurelia.io/">Aurelia</Link>
+			<Link desc="JavaScript ecosystem for web servers etc." url="http://wiki.commonjs.org/wiki/CommonJS">CommonJS</Link>
+			<Link desc="The cross-platform JavaScript test framework" url="http://jstest.jcoglan.com/">JSTest (J Coglan)</Link>
+			<Link desc="Backbone MVC" url="http://backbonejs.org/">Backbone.JS</Link>
+			<Link desc="Backbone Framework" url="http://marionettejs.com/">Marionette.JS</Link>
+			<Link desc="JS MVW Framework" url="http://emberjs.com/">Ember JS</Link>
+			<Link desc="Design and development environment fro RIAs" url="http://www.morfik.com/">Morfik</Link>
+			<Link desc="Progressive loading library" url="https://code.google.com/p/enhancejs/">EnhanceJS</Link>
+			<Link desc="Utility-belt library for JavaScript" url="http://underscorejs.org/">UnderscoreJS</Link>
+			<Link desc="A Javascript Module Loader" url="http://requirejs.org/">Require.JS</Link>
+			<Link desc="Better MV-ish Framework" url="http://jsblocks.com/">JS Blocks</Link>
+			<Link desc="Frictionless browser package management" url="http://jspm.io/">JSPM.io</Link>
+			<Link desc="A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology" url="http://www.graphicsjs.org/">GraphicsJS</Link>
+		</Bookmarks>
+		<Bookmarks name="Libraries">
+			<Link desc="CSV Library" url="https://csv.js.org/">CSV for Node</Link>
+			<Link desc="UI library that makes building web apps fun" url="http://markojs.com/">Marko JS</Link>
+			<Link desc="SQL query builder for Postgres et al" url="http://knexjs.org/">KNEX JS</Link>
+			<Link desc="Open industry standard RFC 7519 method for representing claims securely between two parties" url="https://jwt.io/">JSON Web Token</Link>
+			<Link desc="Eve Language" url="http://www.witheve.com/">With Eve</Link>
+			<Link desc="A functional language that compiles to HTML, CSS, and JavaScript" url="http://elm-lang.org/">ELM-Lang</Link>
+			<Link desc="Tutorial for the ELM programming language" url="https://www.elm-tutorial.org/en/">ELM Tutorial</Link>
+			<Link desc="A ClojureScript-based webapp framework" url="https://untangled-web.github.io/untangled/">Untangled</Link>
+			<Link desc="A better approach to rich text editing" url="http://xing.github.io/wysihtml5/">WYSIHTML5</Link>
+			<Link desc="WebGL lightweight 3D library" url="https://threejs.org/">ThreeJS</Link>
+			<Link desc="A small functional reactive programming lib for JavaScript" url="http://baconjs.github.io/">BaconJS</Link>
+			<Link desc="An extremely intuitive, small, and fast functional reactive stream library for JavaScript" url="http://staltz.com/xstream/">XStream</Link>
+			<Link desc="A practical functional library for Javascript programmers" url="http://ramdajs.com/">Ramda JS</Link>
+			<Link desc="The functional JavaScript library" url="http://functionaljs.com/">FunctionalJS</Link>
+			<Link desc="SVG library" url="http://dmitrybaranovskiy.github.io/raphael/">Raphaël</Link>
+			<Link desc="A lightweight library for manipulating and animating SVG" url="http://www.svgjs.com/">SVG JS</Link>
+			<Link desc="SVG" url="http://paperjs.org/">Paper.JS</Link>
+			<Link desc="JavaScript library for SVG to VML" url="https://code.google.com/p/svg2vml/">SVG2VML</Link>
+			<Link desc="Lightweight Date-time Library" url="https://date-fns.org/">date-fns</Link>
+			<Link desc="Lightweight Date-time Library" url="https://day.js.org/">Days.js</Link>
+			<Link desc="Data Driven Documents SVG Library" url="https://d3js.org/">D3</Link>
+			<Link desc="full set of drawing functionality" url="https://p5js.org/">P5</Link>
+			<Link desc="Reactive Extensions Library for JavaScript" url="https://rxjs.dev/">RxJS</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="JavaScript" fullTitle="JavaScript Two" link="JS_2">
+		<Bookmarks name="Reference">
+			<Link desc="Interactive diagrams of Rx Observables" url="http://rxmarbles.com/">RxMarbles</Link>
+			<Link desc="Scaleable Vector Graphics Magazine" url="http://svgmagazine.com/">SVG Magazine</Link>
+			<Link desc="Bayeux Protocol -- Bayeux 1.0.0" url="https://docs.cometd.org/current/reference/#_bayeux">Bayeux Specification</Link>
+			<Link desc="Voodoo&apos;s Introduction To JavaScript" url="http://www.oopweb.com/JavaScript/Documents/jsintro/VolumeFrames.html">OOPWeb</Link>
+			<Link desc="JavaScript DHTML example source code" url="http://www.java2s.com/Code/JavaScriptReference/CatalogJavaScriptReference.htm">JS Reference</Link>
+			<Link desc="YOU MIGHT NOT NEED JQUERY" url="http://youmightnotneedjquery.com/">Sure you need JQuery</Link>
+			<Link desc="What JQuery does for you. Browser bug workarounds" url="https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#heading=h.4b6lszvv9u4p">jQuery&apos;s browser fixes</Link>
+			<Link desc="Ajaxian: Ajax, JavaScript, PHP, ASP.net, jQuery - Expert Resources" url="http://ajaxian.com/">Ajaxian</Link>
+		</Bookmarks>
+		<Bookmarks name="Facilities">
+			<Link desc="Viper HTML" url="https://viperhtml.js.org/">HyperHTML</Link>
+			<Link desc="JavaScript Regular Expression Visualizer" url="https://jex.im/regulex">RegulEx</Link>
+			<Link desc="On-line Mark-down editor" url="http://dillinger.io/">Dillinger</Link>
+			<Link desc="Statically-typed, object-oriented programming language" url="https://jsx.github.io/">JSX</Link>
+			<Link desc="ECMAScript Lint" url="http://eslint.org/">ESLint</Link>
+			<Link desc="A typed superset of JavaScript that compiles to plain JavaScript" url="http://www.typescriptlang.org/">TypeScript Lang</Link>
+			<Link desc="Online visual regex tester" url="https://www.debuggex.com/">Debuggex</Link>
+			<Link desc="Regular Expression 101" url="https://regex101.com/">RegEx 101</Link>
+			<Link desc="JavaScript Behavior-Driven Development" url="http://jasmine.github.io/2.0/introduction.html">Jasmine</Link>
+			<Link desc="Web Application integration test framework" url="https://www.cypress.io/">Cypress IO</Link>
+			<Link desc="TypeScript Playground" url="https://agentcooper.github.io/typescript-play/">TypeScript playground</Link>
+		</Bookmarks>
+		<Bookmarks name="JS &amp; PHP">
+			<Link desc="An event-driven web framework, from Twitter" url="https://flightjs.github.io/">FlightJS</Link>
+			<Link desc="Modular JS framework" url="http://ampersandjs.com/">&amp;JS</Link>
+			<Link desc="Client-side DB Sync" url="http://pouchdb.com/">PouchDB</Link>
+			<Link desc="Professional CSS Framework" url="http://imperavi.com/kube/">Kube</Link>
+			<Link desc="PHP-base development framework" url="http://symfony.com/">Symfony</Link>
+			<Link desc="SPA (single-page application) framework" url="http://pagesjs.chrisdlangton.com/">PagesJS</Link>
+			<Link desc="Rapid PHP development framework" url="http://cakephp.org/">CakePHP</Link>
+			<Link desc="Selection of micro JS frameworks" url="http://microjs.com/">MicroJS</Link>
+			<Link desc="Full-stack MVC" url="http://derbyjs.com/">DerbyJS</Link>
+			<Link desc="Lightweight JavaScript class that allows you to animate SVGs" url="https://maxwellito.github.io/vivus/">Vivus</Link>
+			<Link desc="JavaScript-based Object system" url="http://joose.it/">Joose</Link>
+			<Link desc="RIA development platform" url="http://www.zend.com/en/">Zend PHP</Link>
+			<Link desc="PHP framework" url="http://framework.zend.com/">Zend-2 PHP</Link>
+		</Bookmarks>
+		<Bookmarks name="Libraries">
+			<Link desc="A JavaScript library for building user interfaces" url="http://facebook.github.io/react/">React</Link>
+			<Link desc="Application Architecture for Building User Interfaces" url="https://facebook.github.io/flux/">Flux</Link>
+			<Link desc="Functional and reactive JavaScript framework" url="http://cycle.js.org/">CycleJS</Link>
+			<Link desc="A minimalist real-time framework for tomorrows apps" url="http://feathersjs.com/">FeathersJS</Link>
+			<Link desc="A realtime, open-source backend for JavaScript apps" url="https://horizon.io/">Horizon</Link>
+			<Link desc="The high-level streams library for Node.js and the browser" url="http://highlandjs.org/">HighlandJS</Link>
+			<Link desc="FP JavaScript utility library" url="https://lodash.com/">Lodash</Link>
+			<Link desc="JS FP Library" url="https://monet.github.io/monet.js/">Monet.js</Link>
+			<Link desc="User Interface micro-library" url="http://riotjs.com/">Riot JS</Link>
+			<Link desc="JavaScript Database" url="http://www.taffydb.com/">TaffDB</Link>
+			<Link desc="The JavaScript Task Runner" url="http://gruntjs.com/">Grunt.js</Link>
+			<Link desc="JavaScript streams" url="http://gulpjs.com/">Gulp.js</Link>
+			<Link desc="Package manager for the web" url="http://bower.io/">Bower</Link>
+			<Link desc="Free Maps for the Web" url="http://openlayers.org/">OpenLayers</Link>
+			<Link desc="Require('modules') in the browser" url="http://browserify.org/">Browserify</Link>
+			<Link desc="Detects HTML5 and CSS3 features" url="http://modernizr.com/">Modernizr</Link>
+			<Link desc="GSAP - Animation library" url="https://greensock.com/">Green Sock</Link>
+			<Link desc="An architectural toolkit for building web applications" url="http://cujojs.com/">CujoJS</Link>
+			<Link desc="Chai Assertion Library" url="http://chaijs.com/api/assert/">ChaiJS</Link>
+			<Link desc="modular utilities" url="http://moutjs.com/">MOUT</Link>
+			<Link desc="XSLT extension." url="http://www.exslt.org/">Exslt</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p2" title="JavaScript" fullTitle="JavaScript Three" link="JS_3">
+		<Bookmarks name="Dojo &amp; JQuery">
+			<Link desc="eBook" url="http://blogs.perficient.com/portals/2011/02/15/dojo-from-the-ground-up">DOJO from the Ground Up</Link>
+			<Link desc="Low-latency data transfer from servers to clients" url="http://dojotoolkit.org/reference-guide/1.7/dojox/cometd.html">DojoX CometD</Link>
+			<Link desc="SitePen" url="http://www.sitepen.com/">Dojo Sitepen</Link>
+			<Link desc="Reference" url="http://dojotoolkit.org/reference-guide/">Dojo Toolkit Ref.</Link>
+			<Link desc="Documents" url="http://www.dojotoolkit.org/documentation/">Dojo Toolkit Docs</Link>
+			<Link desc="Home Site" url="http://www.dojotoolkit.org/">Dojo Toolkit</Link>
+			<Link desc="Reference" url="http://dojotoolkit.org/reference-guide/dojox/#dojox-index">DojoX Ref.</Link>
+			<Link desc="Reference" url="http://dojotoolkit.org/reference-guide/dijit/#dijit-index">Dojo Dijit Ref.</Link>
+			<Link desc="Applications Programming Interface" url="http://api.jquery.com/">JQuery API</Link>
+			<Link desc="User Interface interactions, widgets, effects and utilities" url="http://jqueryui.com/">JQuery UI</Link>
+			<Link desc="Documents" url="http://docs.jquery.com/Main_Page">JQuery Docs</Link>
+			<Link desc="Home Site" url="http://jquery.com/">JQuery Site</Link>
+			<Link desc="Site &amp; widget styler" url="http://jqueryui.com/themeroller/">JQuery Theme Roller</Link>
+			<Link desc="Rob Flaherty" url="http://robflaherty.github.io/jquery-annotated-source/">JQuery Annotated</Link>
+			<Link desc="JavaScript plotting for jQuery" url="https://code.google.com/p/flot/">Flot (Code)</Link>
+			<Link desc="JavaScript plotting for jQuery" url="http://www.flotcharts.org/">Flot (Site)</Link>
+		</Bookmarks>
+		<Bookmarks name="Libraries">
+			<Link desc="Web-based GeoSpatial" url="https://cesiumjs.org/">Cesium.js</Link>
+			<Link desc="GPU Accelerated JavaScript" url="http://gpu.rocks/">GPU.js</Link>
+			<Link desc="JS Date library" url="https://momentjs.com/">Moment.js</Link>
+			<Link desc="Web App API" url="http://amplifyjs.com/">AmplifyJS</Link>
+			<Link desc="Fast HTML5 Graphics library" url="http://bonsaijs.org/">Bonsai JS</Link>
+			<Link desc="Enables web browsers with Real-Time Communications (RTC)" url="http://www.webrtc.org/">WebRTC</Link>
+			<Link desc="Free JS Charts Generator" url="http://www.jscharts.com/home">JS Charts</Link>
+			<Link desc="HTML5 Polyfill" url="https://code.google.com/p/html5shiv/">HTML5Shiv Code</Link>
+			<Link desc="Predictable state container for JavaScript apps" url="http://rackt.org/redux/">Redux</Link>
+			<Link desc="API for asynchronous programming with observable streams" url="http://reactivex.io/">ReactiveX</Link>
+			<Link desc="Scene graph JavaScript library" url="https://code.google.com/p/cakejs/">CakeJS</Link>
+			<Link desc="Library for organizing asynchronous code" url="http://www.javascriptoo.com/rsvp-js">RSVP JS</Link>
+			<Link desc="Open-Source JavaScript Library for Mobile-Friendly Interactive Maps" url="http://leafletjs.com/">Leaflet JS</Link>
+			<Link desc="2D webGL renderer with canvas fallback" url="http://www.pixijs.com/">Pixi.js</Link>
+			<Link desc="Html5 Canvas framework " url="http://www.concretejs.com/">Concrete.js</Link>
+			<Link desc="Modern Web Audio Javascript Library" url="http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library">Howler.js</Link>
+			<Link desc="Dynamic WebApp Library" url="http://cjs.from.so/">ConstraintJS</Link>
+			<Link desc="Web Graphics Library" url="http://kineticjs.com/">KineticJS</Link>
+			<Link desc="An open-source JavaScript library and tool that can be added to any webpage to make it annotatable." url="http://annotatorjs.org/">Annotator</Link>
+			<Link desc="GeoScript adds spatial capabilities to dynamic scripting languages" url="http://geoscript.org/js/index.html">GeoScript</Link>
+		</Bookmarks>
+	</BookmarkSet>
+
+	<BookmarkSet priority="p3"/>
+</BookmarkCollection>

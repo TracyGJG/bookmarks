@@ -1,0 +1,89 @@
+.Day1 {
+  /* red - Monday */
+  --hdr-colour: #600;
+  --edg-colour: #a00;
+  --drp-colour: #fdd;
+  --bkg-colour: #fff0f0;
+}
+
+.Day2 {
+  /* orange - Tuesday */
+  --hdr-colour: #840;
+  --edg-colour: #b70;
+  --drp-colour: #fed;
+  --bkg-colour: #fff7f0;
+}
+
+.Day3 {
+  /* yellow - Wednesday */
+  --hdr-colour: #990;
+  --edg-colour: #cc0;
+  --drp-colour: #ffd;
+  --bkg-colour: #fffff0;
+}
+
+.Day4 {
+  /* green - Thursday */
+  --hdr-colour: #030;
+  --edg-colour: #0a0;
+  --drp-colour: #dfd;
+  --bkg-colour: #f0fff0;
+}
+
+.Day5 {
+  /* blue - Friday */
+  --hdr-colour: #004;
+  --edg-colour: #00d;
+  --drp-colour: #ddf;
+  --bkg-colour: #f0f0ff;
+}
+
+.Day6 {
+  /* indego - Saturday */
+  --hdr-colour: #307;
+  --edg-colour: #50a;
+  --drp-colour: #edf;
+  --bkg-colour: #f7f0ff;
+}
+
+.Day0 {
+  /* violet - Sunday*/
+  --hdr-colour: #505;
+  --edg-colour: #d0d;
+  --drp-colour: #a0a;
+  --bkg-colour: #fff0ff;
+}
+
+body {
+  background-color: var(--hdr-colour);
+  background-image: var(--bg-image);
+  display: block;
+}
+
+main,
+section.header,
+.bookmarkSet {
+  border-color: var(--hdr-colour);
+}
+
+h1,
+h2,
+h3 {
+  background-color: var(--hdr-colour);
+  background: linear-gradient(
+    var(--edg-colour),
+    var(--hdr-colour) 25%,
+    var(--hdr-colour) 75%,
+    var(--edg-colour)
+  );
+  border-bottom: 1px solid var(--hdr-colour);
+}
+
+h3 {
+  border-top: 1px solid var(--hdr-colour);
+}
+
+section.header,
+.bookmarkSet {
+  background-color: var(--bkg-colour);
+}

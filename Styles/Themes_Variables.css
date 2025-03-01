@@ -1,0 +1,263 @@
+/* Colour Schemes */
+
+:root {
+    /* Red */
+    --Day1-hdr-color: #d00;
+    --Day1-bg1-color: #b00;
+    --Day1-edg-color: #fdd;
+    --Day1-bg2-color: #fee;
+    /* Orange */
+    --Day2-hdr-color: #b70;
+    --Day2-bg1-color: #f70;
+    --Day2-edg-color: #fb7;
+    --Day2-bg2-color: #fff;
+    /* Yellow */
+    --Day3-hdr-color: #bb0;
+    --Day3-bg1-color: #ff0;
+    --Day3-edg-color: #ffb;
+    --Day3-bg2-color: #ffe;
+    /* Green */
+    --Day4-hdr-color: #0d0;
+    --Day4-bg1-color: #0b0;
+    --Day4-edg-color: #dfd;
+    --Day4-bg2-color: #efe;
+    /* Blue */
+    --Day5-hdr-color: #00d;
+    --Day5-bg1-color: #00b;
+    --Day5-edg-color: #ddf;
+    --Day5-bg2-color: #eef;
+    /* Indigo */
+    --Day6-hdr-color: #70d;
+    --Day6-bg1-color: #70f;
+    --Day6-edg-color: #b7f;
+    --Day6-bg2-color: #bff;
+    /* Violet */
+    --Day0-hdr-color: #d0f;
+    --Day0-bg1-color: #f07;
+    --Day0-edg-color: #f7b;
+    --Day0-bg2-color: #fbf;
+}
+
+
+/* Monday */
+
+.Day1 {
+    background-color: var(--Day1-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_1.png);
+    display: block;
+}
+
+.Day1 main,
+.Day1 section.header,
+.Day1 .bookmarkSet {
+    border-color: var(--Day1-hdr-color);
+}
+
+.Day1 h1,
+.Day1 h2,
+.Day1 h3 {
+    background-color: var(--Day1-hdr-color);
+    background: linear-gradient( var(--Day1-edg-color), var(--Day1-hdr-color), var(--Day1-edg-color));
+    border-bottom: 1px solid var(--Day1-hdr-color);
+}
+
+.Day1 h3 {
+    border-top: 1px solid var(--Day1-hdr-color);
+}
+
+.Day1 section.header,
+.Day1 .bookmarkSet {
+    background-color: var(--Day1-bg2-color);
+}
+
+
+/* Tuesday */
+
+.Day2 {
+    background-color: var(--Day2-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_2.png);
+    display: block;
+}
+
+.Day2 main,
+.Day2 section.header,
+.Day2 .bookmarkSet {
+    border-color: var(--Day2-hdr-color);
+}
+
+.Day2 h1,
+.Day2 h2,
+.Day2 h3 {
+    background-color: var(--Day2-hdr-color);
+    background: linear-gradient( var(--Day2-edg-color), var(--Day2-hdr-color), var(--Day2-edg-color));
+    border-bottom: 1px solid var(--Day2-hdr-color);
+}
+
+.Day2 h3 {
+    border-top: 1px solid var(--Day2-hdr-color);
+}
+
+.Day2 section.header,
+.Day2 .bookmarkSet {
+    background-color: var(--Day2-bg2-color);
+}
+
+
+/* Wednesday */
+
+.Day3 {
+    background-color: var(--Day3-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_3.png);
+    display: block;
+}
+
+.Day3 main,
+.Day3 section.header,
+.Day3 .bookmarkSet {
+    border-color: var(--Day3-hdr-color);
+}
+
+.Day3 h1,
+.Day3 h2,
+.Day3 h3 {
+    background-color: var(--Day3-hdr-color);
+    background: linear-gradient( var(--Day3-edg-color), var(--Day3-hdr-color), var(--Day3-edg-color));
+    border-bottom: 1px solid var(--Day3-hdr-color);
+}
+
+.Day3 h3 {
+    border-top: 1px solid var(--Day3-hdr-color);
+}
+
+.Day3 section.header,
+.Day3 .bookmarkSet {
+    background-color: var(--Day3-bg2-color);
+}
+
+
+/* Thursday */
+
+.Day4 {
+    background-color: var(--Day4-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_4.png);
+    display: block;
+}
+
+.Day4 main,
+.Day4 section.header,
+.Day4 .bookmarkSet {
+    border-color: var(--Day4-hdr-color);
+}
+
+.Day4 h1,
+.Day4 h2,
+.Day4 h3 {
+    background-color: var(--Day4-hdr-color);
+    background: linear-gradient( var(--Day4-edg-color), var(--Day4-hdr-color), var(--Day4-edg-color));
+    border-bottom: 1px solid var(--Day4-hdr-color);
+}
+
+.Day4 h3 {
+    border-top: 1px solid var(--Day4-hdr-color);
+}
+
+.Day4 section.header,
+.Day4 .bookmarkSet {
+    background-color: var(--Day4-bg2-color);
+}
+
+
+/* Friday */
+
+.Day5 {
+    background-color: var(--Day5-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_5.png);
+    display: block;
+}
+
+.Day5 main,
+.Day5 section.header,
+.Day5 .bookmarkSet {
+    border-color: var(--Day5-hdr-color);
+}
+
+.Day5 h1,
+.Day5 h2,
+.Day5 h3 {
+    background-color: var(--Day5-hdr-color);
+    background: linear-gradient( var(--Day5-edg-color), var(--Day5-hdr-color), var(--Day5-edg-color));
+    border-bottom: 1px solid var(--Day5-hdr-color);
+}
+
+.Day5 h3 {
+    border-top: 1px solid var(--Day5-hdr-color);
+}
+
+.Day5 section.header,
+.Day5 .bookmarkSet {
+    background-color: var(--Day5-bg2-color);
+}
+
+
+/* Saturday */
+
+.Day6 {
+    background-color: var(--Day6-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_6.png);
+    display: block;
+}
+
+.Day6 main,
+.Day6 section.header,
+.Day6 .bookmarkSet {
+    border-color: var(--Day6-hdr-color);
+}
+
+.Day6 h1,
+.Day6 h2,
+.Day6 h3 {
+    background-color: var(--Day6-hdr-color);
+    background: linear-gradient( var(--Day6-edg-color), var(--Day6-hdr-color), var(--Day6-edg-color));
+    border-bottom: 1px solid var(--Day6-hdr-color);
+}
+
+.Day6 h3 {
+    border-top: 1px solid var(--Day6-hdr-color);
+}
+
+.Day6 section.header,
+.Day6 .bookmarkSet {
+    background-color: var(--Day6-bg2-color);
+}
+
+
+/* Sunday */
+
+.Day0 {
+    background-color: var(--Day0-bg1-color);
+    background-image: url(../Backdrops/set-0/Backdrop_0.png);
+    display: block;
+}
+
+.Day0 main,
+.Day0 section.header,
+.Day0 .bookmarkSet {
+    border-color: var(--Day0-hdr-color);
+}
+
+.Day0 h1,
+.Day0 h2,
+.Day0 h3 {
+    background-color: var(--Day0-hdr-color);
+    background: linear-gradient( var(--Day0-edg-color), var(--Day0-hdr-color), var(--Day0-edg-color));
+    border-bottom: 1px solid var(--Day0-hdr-color);
+}
+
+.Day0 h3 {
+    border-top: 1px solid var(--Day0-hdr-color);
+}
+
+.Day0 section.header,
+.Day0 .bookmarkSet {
+    background-color: var(--Day0-bg2-color);
+}

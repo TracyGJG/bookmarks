@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        overflow: hidden;
+      }
+
+      /*
+  iPod Touch                    P 2.5 x 3.5       300 x 420
+  Galaxy S7                     P 3 x 4.5         360 x 540 
+  iPod Touch    1136 x 640      L 4.5 x 2         540 x 240
+  Lenovo 7                      P 5 x 7           600 x 840
+  Galaxy S7     2560 x 1440     L 5.25 x 2        630 x 240
+  Lenovo 7      1280 x 720      L 8.5 x 3.25      1020 x 390
+  Tab Pro 12    2560 x 1600     L 10.5 x 5.25     1260 x 630
+  Dell Laptop   1920 x 1080     L 15.25 x 7.5     1830 x 900 
+
+  S0 300 x 420    Default   Red
+  S1 360 x 540    > 380     Orange
+  S2 540 x 240    > 560     Red
+  S3 600 x 840    > 620     Lime
+  S4 630 x 240    > 640     Orange
+  S5 1020 x 390   > 1040    Lime
+  S6 1260 x 630   > 1280    Cyan
+  S7 1800 x 900   > 1810    Magenta
+*/
+
+      main {
+        box-sizing: border-box;
+        overflow: hidden;
+        margin: 10px auto 0;
+        padding: 0;
+        background-color: red;
+        width: 300px;
+        height: 420px;
+      }
+      /* main::after {
+        content: 'S0 300 x 420 IPod Touch Port';
+      } */
+      div {
+        box-sizing: border-box;
+        width: 150px;
+        height: 140px;
+        border: 2px solid #fff;
+        margin: 0;
+        float: left;
+      }
+      div:first-of-type {
+        width: 50%;
+        height: 100%;
+      }
+
+      @media screen and (min-width: 360px) {
+        main {
+          background-color: orange;
+          width: 350px;
+          height: 540px;
+        }
+        /* main::after {
+          content: 'S1 350 x 540 Galaxy S7 Port';
+          color: black;
+        } */
+        div {
+          width: 170px;
+          height: 135px;
+        }
+        div:first-of-type {
+          width: 180px;
+          height: 100%;
+        }
+      }
+
+      @media screen and (min-width: 560px) {
+        main {
+          width: 550px;
+          height: 240px;
+          background-color: red;
+        }
+        /* main::after {
+          content: 'S2 550 x 250 IPod Touch Land';
+          color: black;
+        } */
+        div {
+          width: 180px;
+          height: 120px;
+        }
+        div:first-of-type {
+          width: 190px;
+          height: 100%;
+        }
+      }
+
+      @media screen and (min-width: 590px) {
+        main {
+          width: 580px;
+          height: 840px;
+          background-color: lime;
+        }
+        /* main::after {
+          content: 'S3 580 x 840 Lenovo 7 Port';
+        } */
+        div {
+          width: 190px;
+          height: 210px;
+        }
+        div:first-of-type {
+          width: 200px;
+          height: 100%;
+        }
+      }
+
+      @media screen and (min-width: 640px) {
+        main {
+          width: 630px;
+          height: 260px;
+          background-color: orange;
+        }
+        /* main::after {
+          content: 'S4 630 x 260 Galaxy S7 Land';
+          color: white;
+        } */
+        div {
+          width: 160px;
+          height: 130px;
+        }
+        div:first-of-type {
+          width: 150px;
+          height: 100%;
+        }
+      }
+
+      @media screen and (min-width: 1010px) {
+        main {
+          width: 1000px;
+          height: 420px;
+          background-color: lime;
+        }
+        /* main::after {
+          content: 'S5 1000 x 420 Lenovo 7 Land';
+          color: white;
+        } */
+        div {
+          width: 200px;
+          height: 210px;
+        }
+        div:first-of-type {
+          width: 200px;
+          height: 100%;
+        }
+      }
+
+      @media screen and (min-width: 1270px) {
+        main {
+          width: 1260px;
+          height: 660px;
+          background-color: cyan;
+        }
+        /* main::after {
+          content: 'S6 1260 x 660 Tab Pro 12';
+          color: white;
+        } */
+        div {
+          width: 140px;
+          height: 140px;
+        }
+        div:first-of-type {
+          width: 1260px;
+          height: 100px;
+        }
+        div:nth-of-type(2) {
+          width: 140px;
+          height: 560px;
+        }
+      }
+
+      @media screen and (min-width: 1810px) {
+        main {
+          width: 1800px;
+          height: 900px;
+          background-color: violet;
+        }
+        /* main::after {
+          content: 'S7 1800 x 900 Dell Laptop';
+        } */
+        div {
+          width: 200px;
+          height: 200px;
+        }
+        div:first-of-type {
+          width: 100%;
+          height: 100px;
+        }
+        div:nth-of-type(2) {
+          width: 200px;
+          height: 800px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </main>
+  </body>
+</html>
