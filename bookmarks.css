@@ -22,11 +22,11 @@ details {
 
   & > summary {
     box-sizing: border-box;
-    padding: 0.25em 0.5em;
+    padding: 0.125em 0.5em 0.375em;
     margin-right: 2px;
-    height: 1.5em;
-    background-color: darkgrey;
-    color: white;
+    /* height: 1.5em; */
+    background-color: lightgrey;
+    color: grey;
     border: 1px solid black;
     cursor: pointer;
     border-radius: 0.25em 0.25em 0 0;
@@ -34,9 +34,10 @@ details {
   }
 
   &[open] > summary {
+    padding: 0.25em 0.5em 0;
     color: black;
     background-color: aliceblue;
-    border-bottom-color: aliceblue;
+    border-bottom-width: 0;
     z-index: 1;
     position: relative;
     cursor: unset;
@@ -44,10 +45,14 @@ details {
 }
 
 section {
+  box-sizing: border-box;
   position: absolute;
   inset: calc(1.5em - 1px) 0 0 0;
-  background-color: aliceblue;
   padding: 0.5em;
-  border: 1px solid black;
+  background-color: white;
+  border-width: 0.5em;
   border-radius: 0.25em;
+  border-color: aliceblue;
+  border-style: outset;
+  outline: 1px solid black;
 }
