@@ -1,0 +1,57 @@
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  padding: 0.25em;
+  margin: 0;
+  overflow: auto;
+  background-color: antiquewhite;
+  box-sizing: border-box;
+}
+
+header {
+  height: 1.5em;
+  box-sizing: border-box;
+  border-bottom: 1px solid black;
+  margin-inline: 0.5em;
+}
+
+main {
+  position: absolute;
+  inset: 0.5em;
+}
+
+details {
+  float: left;
+  margin-left: 0.25em;
+
+  & > summary {
+    box-sizing: border-box;
+    padding: 0.25em 0.5em;
+    margin-right: 2px;
+    height: 1.5em;
+    background-color: darkgrey;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 0.25em 0.25em 0 0;
+    list-style: none;
+  }
+
+  &[open] > summary {
+    background-color: aliceblue;
+    border-bottom-color: aliceblue;
+    z-index: 1;
+    position: relative;
+  }
+}
+
+section {
+  position: absolute;
+  inset: calc(1.5em - 1px) 0 0 0;
+  background-color: aliceblue;
+  padding: 0.5em;
+  border: 1px solid black;
+  border-radius: 0.25em;
+}
