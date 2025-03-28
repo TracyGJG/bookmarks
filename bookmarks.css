@@ -11,13 +11,6 @@ body {
   box-sizing: border-box;
 }
 
-header {
-  height: 1.5em;
-  box-sizing: border-box;
-  border-bottom: 1px solid black;
-  margin-inline: 0.5em;
-}
-
 main {
   position: absolute;
   inset: 0.5em;
@@ -33,6 +26,7 @@ details {
     margin-right: 2px;
     height: 1.5em;
     background-color: darkgrey;
+    color: white;
     border: 1px solid black;
     cursor: pointer;
     border-radius: 0.25em 0.25em 0 0;
@@ -40,10 +34,12 @@ details {
   }
 
   &[open] > summary {
+    color: black;
     background-color: aliceblue;
     border-bottom-color: aliceblue;
     z-index: 1;
     position: relative;
+    cursor: unset;
   }
 }
 
