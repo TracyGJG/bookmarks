@@ -24,13 +24,22 @@ details {
     box-sizing: border-box;
     padding: 0.125em 0.5em 0.375em;
     margin-right: 2px;
-    /* height: 1.5em; */
     background-color: lightgrey;
     color: grey;
     border: 1px solid black;
     cursor: pointer;
     border-radius: 0.25em 0.25em 0 0;
     list-style: none;
+
+    &:hover {
+      background-color: black;
+      color: white;
+    }
+    &:focus,
+    &:active {
+      background-color: white;
+      color: black;
+    }
   }
 
   &[open] > summary {
