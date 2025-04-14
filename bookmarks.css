@@ -75,7 +75,7 @@ a {
   margin: 0.5em;
   background-image: url("./Images/QuickLinks.png");
   position: relative;
-  border-radius: 4px;
+  border-radius: 6px;
 
   &::after {
     content: attr(text);
