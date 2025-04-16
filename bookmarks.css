@@ -58,7 +58,7 @@ section {
   position: absolute;
   inset: calc(1.5em - 1px) 0 0 0;
   padding: 0.5em;
-  background-color: white;
+  background-color: #eee;
   border-width: 0.5em;
   border-radius: 0.25em;
   border-color: aliceblue;
@@ -73,9 +73,11 @@ a {
   width: 120px;
   height: 48px;
   margin: 0.5em;
+  background-color: #eee;
   background-image: url("./Images/QuickLinks.png");
   position: relative;
   border-radius: 6px;
+  box-shadow: 0.5em 0.5em 0.75em #dddb, -0.5em -0.5em 0.75em #fffb;
 
   &::after {
     content: attr(text);
