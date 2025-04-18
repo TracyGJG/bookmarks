@@ -25,7 +25,6 @@ details {
     padding: 0.125em 0.5em 0.375em;
     margin-right: 2px;
     background-color: lightgrey;
-    color: grey;
     border: 1px solid black;
     cursor: pointer;
     border-radius: 0.25em 0.25em 0 0;
@@ -44,12 +43,12 @@ details {
 
   &[open] > summary {
     padding: 0.25em 0.5em 0;
-    color: black;
     background-color: aliceblue;
     border-bottom-width: 0;
     z-index: 1;
     position: relative;
     cursor: unset;
+    font-weight: bold;
   }
 }
 
@@ -73,18 +72,31 @@ a {
   width: 120px;
   height: 48px;
   margin: 0.5em;
-  background-color: #eee;
+  background-color: #fff;
   background-image: url("./Images/QuickLinks.png");
   position: relative;
   border-radius: 6px;
-  box-shadow: 0.5em 0.5em 0.75em #dddb, -0.5em -0.5em 0.75em #fffb;
+  box-shadow: 0.5em 0.5em 0.75em #ddd, -0.5em -0.5em 0.75em #fff;
 
-  &::after {
-    content: attr(text);
-    position: absolute;
-    inset: 0.75em;
-    text-align: right;
-    font-size: 1.25em;
+  &,
+  &:link,
+  &:visited,
+  &:hover {
     color: #000;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  &[title] {
+    display: inline-grid;
+    place-content: center;
+    background-image: url("./favicon.ico");
+    background-repeat: no-repeat;
+    vertical-align: bottom;
+
+    &::after {
+      content: attr(title);
+      text-align: center;
+    }
   }
 }
