@@ -14,6 +14,14 @@ body {
 main {
   position: absolute;
   inset: 0.5em;
+
+  & > .mask {
+    position: absolute;
+    background-color: aliceblue;
+    height: 0.25em;
+    inset: calc(1.75em - 1px) 0.25em auto;
+    z-index: 1;
+  }
 }
 
 details {
@@ -42,9 +50,9 @@ details {
   }
 
   &[open] > summary {
-    padding: 0.25em 0.5em 0;
+    padding: 0.25em 0.5em;
     background-color: aliceblue;
-    border-bottom-width: 0;
+    border-bottom-color: aliceblue;
     z-index: 1;
     position: relative;
     cursor: unset;
@@ -55,7 +63,7 @@ details {
 section {
   box-sizing: border-box;
   position: absolute;
-  inset: calc(1.5em - 1px) 0 0 0;
+  inset: calc(1.75em - 1px) 0 0 0;
   padding: 0.5em;
   background-color: #eee;
   border-width: 0.5em;
