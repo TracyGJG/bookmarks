@@ -81,7 +81,7 @@ a {
   height: 48px;
   margin: 0.5em;
   background-color: #fff;
-  background-image: url("./Images/QuickLinks.png");
+  background-image: url('./Images/QuickLinks.png');
   position: relative;
   border-radius: 6px;
   box-shadow: 0.5em 0.5em 0.75em #ddd, -0.5em -0.5em 0.75em #fff;
@@ -92,19 +92,20 @@ a {
   &:hover {
     color: #000;
     text-decoration: none;
-    font-weight: bold;
   }
 
   &[title] {
     display: inline-grid;
     place-content: center;
-    background-image: url("./favicon.ico");
+    background-image: url('./Images/Home.png');
+    background-position: -48px 0;
     background-repeat: no-repeat;
     vertical-align: bottom;
 
     &::after {
       content: attr(title);
       text-align: center;
+      font-weight: bold;
     }
   }
 }
